@@ -5,6 +5,6 @@
 **Team:** Oliver Elias Adler, Pascal René Daniel, Timo Schrage, Philip Kiesler, Pascal Schwartz, Simon Gartzke, Jan Schröder
 
 ---
-**Teamleiter:**
+**Teamleiter:** Olliver Adler 
 
-**Protokolant:**
+**Protokolant:** Philip Kiesler
