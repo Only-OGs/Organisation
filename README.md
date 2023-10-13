@@ -7,4 +7,3 @@
 ---
 **Teamleiter:** Oliver Adler 
 
-**Protokolant:** Philip Kiesler
