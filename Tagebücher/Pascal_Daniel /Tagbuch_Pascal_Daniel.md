@@ -5,7 +5,7 @@
 
 | Datum       | Tätigkeit                                  | Dauer  |
 |-------------|---------------------------------------------|--------|
-| 13.10.2023  | Termineinteilung, Gruppeneinteilung         | 0,0 h  |
+| 13.10.2023  | Termineinteilung, Gruppeneinteilung         | 2,0 h  |
 | 01.10.2023  |                                             | 0,0 h  |
 | 01.10.2023  |                                             | 0,0 h  |
 | 01.10.2023  |                                             | 0,0 h  |
