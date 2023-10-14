@@ -6,10 +6,10 @@
 | Datum       | Tätigkeit                                  | Dauer  |
 |-------------|---------------------------------------------|--------|
 | 13.10.2023  |1. Meeting Kapiteleinteilung, Gruppeneinteilung        | 2,0 h  |
+| 14.10.2023  |2. Neue Arbeitsaufteilung der Kapitel        | 0,5 h  |
 | 01.10.2023  |                                             | 0,0 h  |
 | 01.10.2023  |                                             | 0,0 h  |
-| 01.10.2023  |                                             | 0,0 h  |
-| **Gesamt:**  |                                            | **2,0 h**  |
+| **Gesamt:**  |                                            | **2,5 h**  |
 
 
 **Woche:** *Kalenderwoche einfügen*
