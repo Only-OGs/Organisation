@@ -1,18 +1,18 @@
 # Tagebuch
 ---
 
-**Woche:** *Kalenderwoche einfügen*
+**Woche:** *41*
 
 | Datum       | Tätigkeit                                  | Dauer  |
 |-------------|---------------------------------------------|--------|
-| 13.10.2023  |                                             | 0,0 h  |
-| 01.10.2023  |                                             | 0,0 h  |
+| 13.10.2023  | Rollen und Arbeitseinteilung                | 2,0 h  |
+| 01.10.2023  | neue Arbeitsaufteilung                      | 0,5 h  |
 | 01.10.2023  |                                             | 0,0 h  |
 | 01.10.2023  |                                             | 0,0 h  |
 | **Gesamt:**  |                                            | **0,0 h**  |
 
 
-**Woche:** *Kalenderwoche einfügen*
+**Woche:** *42*
 
 | Datum       | Tätigkeit                                  | Dauer  |
 |-------------|---------------------------------------------|--------|
