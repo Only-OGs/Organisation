@@ -6,18 +6,18 @@
 | Datum       | Tätigkeit                                  | Dauer  |
 |-------------|---------------------------------------------|--------|
 | 13.10.2023  |        1. Meeting, Literatur überflogen, Arbeitsaufteilung                                           | 2,0 h  |
-| 01.10.2023  |       kurzes Anpassen der Arbeitsaufteilung                                      | 0,5 h  |
+| 14.10.2023  |       kurzes Anpassen der Arbeitsaufteilung                                      | 0,5 h  |
+| 15.10.2023  |                                             | 2,0 h  |
 | 01.10.2023  |                                             | 0,0 h  |
-| 01.10.2023  |                                             | 0,0 h  |
-| **Gesamt:**  |                                            | **2,5 h**  |
+| **Gesamt:**  |                                            | **4,5 h**  |
 
 
-**Woche:** *Kalenderwoche einfügen*
+**Woche:** *42*
 
 | Datum       | Tätigkeit                                  | Dauer  |
 |-------------|---------------------------------------------|--------|
+| 16.10.2023  |                                             | 1,5 h  |
 | 01.10.2023  |                                             | 0,0 h  |
 | 01.10.2023  |                                             | 0,0 h  |
 | 01.10.2023  |                                             | 0,0 h  |
-| 01.10.2023  |                                             | 0,0 h  |
-| **Gesamt:**  |                                            | **0,0 h**  |
+| **Gesamt:**  |                                            | **1,5 h**  |

@@ -1,0 +1,267 @@
+
+# Projektmanagement
+
+---
+
+ ## Was ist Projektmanagement?
+
+----
+
+## Vorab
+
+    Was ist ein Projekt?
+
+---
+
+Was ist Projekt?
+
+----
+![](./media/KüchenProjekt.png)  Bild!
+
+Quelle: Buch!
+
+---
+
+Was ist Projekt?
+
+    Kein Projekt, sondern ein Prozess!
+
+----
+
+
+* Vorhaben, welchses..
+
+    * ..zeitlich begrenzt
+    * ..einmalig
+
+        ist!
+
+
+---
+
+Was ist Projektmanagement?
+
+----
+
+## Definition:
+
+* nach DIN 69901
+    * Gesamtheit von Führungsaufgaben, -organisation, -techniken und -mittel für die Abwicklung eines Projekts“
+
+---
+
+Die Rolle des Projektleiters?
+
+----
+
+        Projektleiter vs. Dirigient
+
+   * **Aufgaben:**
+
+        * Zusammenarbeit im Team steuern.
+        * Verantwortlich für das erfolgreiche Projekt
+        * Erreichen der definierten Ziele
+
+---
+Themengruppen des Projektmanagements
+
+----
+
+**Im Projektmanagement gibt es spezielle Themen, für die man bestimmte Schritte, Werkzeuge und Ergebnisse kennt und nutzt.**
+
+* Scope
+* Stakeholder
+* Resource
+* Time
+* Cost
+* Quality
+
+    und weitere...
+
+---
+Themengruppen des Projektmanagements
+
+----
+
+### Beispiel
+
+Inhalt und Umfang des Projektes (der Scope) sind nun klar, aber pas- sen die dafür geschätzte Zeit und die geschätzten Kosten in einen eventuell vorgegebe- nen Rahmen oder müssen Inhalte angepasst werden, um den Rahmen nicht zu sprengen?
+
+---
+Verschiedene Ansätze des Projektmanagements
+
+----
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+## 1. Ansatz 
+* Klassisches
+    * eignet sich für bereits bekanntes Terrain
+    * plangetrieben; alles wird schriftlich festgehalten
+    * Für Bewertung eines Projektes:
+    
+        --> Magische Dreieck 
+    
+    ![](./media/MagischesDreieck.png)  Bild!
+
+    Quelle: https://de.smartsheet.com/triple-constraint-triangle-theory
+
+    * Iterativ angepasst!
+
+---
+Verschiedene Ansätze des Projektmanagements
+
+----
+
+## 2. Ansatz 
+* Agiles
+    * Maximierung des Wertes innerhalb des geg. Rahmens (kann sich Ändern!)
+    * agile Methode
+        * Scrum und Kanban (später mehr dazu)
+
+---
+Übersicht über die verschiedenen Ansätze
+
+----
+
+## Projektlebenszyklus
+**Projektlebenszyklus ist die Abfolge der Phasen, die ein Pro- jekt vom Aufsetzen (Initiieren) bis zum Abschluss durchläuft.**
+
+**Iteration**: Wiederholung, "Schleifen"
+
+**Inkrement**: Betrag, um den eine Größe zunimmt.
+Ergebnis kann immer wieder "ergänzt" werden.
+
+
+---
+Projektlebenszyklus
+
+----
+
+* Phasen werden in einem Projektlebenszyklus dargestellt (abhängig von der Branche)
+*   ![](./media/Gegenüberstellung.png)  Bild! 
+
+    Quelle: Buch!
+
+---
+Projektlebenszyklus
+
+----
+**Bildlich: Klare Wege und Ziele vs. Bildlich: Unklare Wege, möglicher "Nebel"**
+
+![](./media/ Lebenszyklen_bildlich.png)  Bild! 
+
+Quelle: Bild!
+
+
+---
+Klassischen Projektmanagement
+
+----
+   
+## Klassisches (Plangetrieben)
+*Definiert: Inhalt, Umfang, Zeit und Kosten zu Beginn
+
+Geeignet, wenn:
+* Ergebnis genau spezifiziert
+* Ähnliche vorherige Projekte
+* Wenige Änderungen erwartet
+* Feedback nicht zentral
+* Einfache Sachverhalte
+* Kein Nutzen durch Zwischenlieferungen
+
+
+---
+Klassischen Projektmanagement
+
+----
+
+## Ablauf
+* Projektleiter verantwortlich, aber Team-Planung bevorzugt
+* Anfangsüberlegung: Wie und mit wem planen?
+
+* Scope: Inhalt und Umfang des Projekts definieren
+* Projektstrukturplan erstellen
+
+* Ressourcen schätzen und Projektorganisation festlegen
+
+---
+Klassischen Projektmanagement - Ablauf
+
+----
+
+* Zeit: Zeitbedarf schätzen,Terminplan erstellen,..
+
+* Kosten schätzen, Projektbudget erstellen.
+
+* weitere Themengruppenplanen...
+    (Zwischenmeetings, Stakeholder-Berücksichtigung?)
+
+    --> EINFLUSS auf die bisherige Planung!
+
+* Projektmanagementplan: Überlegungen des Projektleiters
+
+* Projektplan: Genehmigte Baselines (Scope, Zeit, Kosten)
+
+* Änderungen durch Change Requests
+
+---
+Klassischen Projektmanagement - Ablauf
+
+----
+
+### Change Requests
+
+* Änderungswünsche analysieren und genehmigen
+
+* Auswirkungen auf Zeitplan, Kosten, Risiken prüfen
+
+* Planungsanpassung nach Genehmigung
+
+* Achtung vor "Scope Creep" (stetige Erweiterung des Umfangs)
+
+
+
+---
+Agiles Projektmanagement
+
+----
+
+## Agiles (Flexibilität und Anpassungsfähigkeit)
+Unklare oder sich ändernde Anforderungen
+Geeignet, wenn:
+* Unklare Ergebnisse und Anforderungen
+* Betritt Neuland (inhaltlich/technisch)
+* Komplexe Sachverhalte (Cynefin Framework)
+* Zentrales Feedback und Lernen
+* Änderungen basierend auf Feedback
+* Zwischenlieferungen bringen Nutzen
+
+
+---
+Agiles Projektmanagement
+
+----
+
+
+
+
