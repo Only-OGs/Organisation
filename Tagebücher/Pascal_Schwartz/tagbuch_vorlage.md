@@ -1,23 +1,17 @@
 # Tagebuch
 ---
 
-**Woche:** *Kalenderwoche einfügen*
+**Woche:** 41
 
 | Datum       | Tätigkeit                                  | Dauer  |
 |-------------|---------------------------------------------|--------|
 | 13.10.2023  |Meeting und anschließende Gruppeneinteilung  | 2,0 h  |
-| 01.10.2023  |                                             | 0,0 h  |
-| 01.10.2023  |                                             | 0,0 h  |
-| 01.10.2023  |                                             | 0,0 h  |
-| **Gesamt:**  |                                            | **0,0 h**  |
+| 14.10.2023  |Nachbesprechung und Neueinteilung der Aufgaben| 0,5 h  |
+| **Gesamt:**  |                                            | **2,5 h**  |
 
 
-**Woche:** *Kalenderwoche einfügen*
-
+**Woche:** 42
 | Datum       | Tätigkeit                                  | Dauer  |
-|-------------|---------------------------------------------|--------|
-| 01.10.2023  |                                             | 0,0 h  |
-| 01.10.2023  |                                             | 0,0 h  |
-| 01.10.2023  |                                             | 0,0 h  |
-| 01.10.2023  |                                             | 0,0 h  |
-| **Gesamt:**  |                                            | **0,0 h**  |
+|-------------|--------------------------------------------|--------|
+| 18.10.2023  |GitHub/Kanban Recherche und erste Einrichtung innerhalb der Organisation| 1 h  |
+| **Gesamt:** |                                            | **0,0 h**|
