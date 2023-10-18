@@ -462,9 +462,10 @@ Hybrides Projektmanagement
     Klassisches, plangetriebenes Vorgehen, aber mit Standup Meeting 
 
 ---
-# Das agile Wertesystem und Mindset
+Das agile Wertesystem und Mindset
 
 ----
+
 
 ![](./media/Werteradar.png)  Bild!  Quelle Buch
 
