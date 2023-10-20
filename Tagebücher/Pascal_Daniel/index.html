@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <title>Software Projektmanagement</title>
+  <meta charset="utf-8">
+  <link rel="icon"
+    href='data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y=".9em" font-size="90">📚</text></svg>'>
+    <link rel="stylesheet" href="assets/css/presstyle.css">
+</head>
+
+<body>
+  <script src="assets/js/remark-latest.min.js"></script>
+  <script>
+
+    function getURL() {
+      let result = "00.index.md"
+      let url = new URLSearchParams(window.location.search).get("url")
+      if (url != null)
+        result = url
+      return result
+    }
+
+    remark.macros.scale = function (percentage) {
+      var url = this
+      return '<img src="' + url + '" style="width: ' + percentage + '" />'
+    }
+
+    var slideshow = remark.create({
+      // Set the slideshow display ratio
+      // Default: '4:3'
+      // Alternatives: '16:9', ...
+      ratio: '4:3',
+
+      // Navigation options
+      navigation: {
+        // Enable or disable navigating using scroll
+        // Default: true
+        // Alternatives: false
+        scroll: true,
+
+        // Enable or disable navigation using touch
+        // Default: true
+        // Alternatives: false
+        touch: true,
+
+        // Enable or disable navigation using click
+        // Default: false
+        // Alternatives: true
+        click: false
+      },
+
+      sourceUrl: getURL(),
+
+      // Customize slide number label, either using a format string..
+      slideNumberFormat: 'Slide %current% of %total%',
+      // .. or by using a format function
+      slideNumberFormat: function (current, total) {
+        return '' + current + '/' + total;
+      },
+
+      // Enable or disable counting of incremental slides in the slide counting
+      countIncrementalSlides: true
+    })
+
+  </script>
+</body>
+
+</html>

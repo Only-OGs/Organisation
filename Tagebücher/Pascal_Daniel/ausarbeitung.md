@@ -111,7 +111,9 @@ Hier haben AN aus einem bestimmten Arbeitsgebiet die Möglichkeit sich persönli
 Es ist eine Veranstaltung für kleinere Gruppen. Das herausstechende Merkmal für diese Kleingruppe ist, eine kooperative und moderierte Arbeitsweise an einem gemeinsamen Ziel. Außerdem ist eine begrenzte und kompakte Zeitdauer zu beachten.
 
 
-## Die Rollen
+## Die Rollen(Rollenverteilung)
+
+### Überblick über die Rollen und deren Verantwortlichkeiten
 
 In jedem **Workshop** oder moderierten Meeting gibt es klare Rollen und damit auch Verantwortlichkeiten.
 
@@ -131,7 +133,7 @@ In jedem **Workshop** oder moderierten Meeting gibt es klare Rollen und damit au
 **Auftraggeber**
 - für die Vorgabe des Ziels verantwortlich
 
-## Doppelrolle Teilnehmer - Moderator
+### Doppelrolle Teilnehmer - Moderator
 
 ![](media/Doppelrolle.jpeg 'scale: 30%')
 
@@ -305,16 +307,18 @@ Bewertung mit Klebepunkten der Teilnehmer
 
 Fragen stellen vom Moderator um die Bewertung besser zu verstehen.
 
-## Vorbereitung eines Meetings oder Workshops
+## Regeln, Tipps und praktische Hinweise
 
-### Vorbereitung des Moderators
+### Vorbereitung eines Meetings oder Workshops
+
+#### Vorbereitung des Moderators
 
 ![](media/7-%20Ps.png 'scale: 30%')
 
 - zeigen die wichtigsten Fragestellungen
 - Fragen beeinflussen sich gegenseitig
 
-### Kleine Details der Vorbereitung
+#### Kleine Details der Vorbereitung
 
 **Einladung** 
   - Uhrzeit richtig wählen für das Meeting
@@ -327,7 +331,7 @@ Fragen stellen vom Moderator um die Bewertung besser zu verstehen.
 **Material**
 
 - Haftnotizen und Stifte
-  - Geeignete Farben und Größen der Stifte verwenden, da man die gelietete Arbeit Fotoprotokollieren will
+  - Geeignete Farben und Größen der Stifte verwenden, da man die geleistete Arbeit Fotoprotokollieren will
   - geeignete Haftnotizen bereitstellen(Post Its)
   
 - Pinnwand und ähnliches
@@ -337,9 +341,9 @@ Fragen stellen vom Moderator um die Bewertung besser zu verstehen.
 - Kreppband, Klebepunkte, weiteres
   - um Sachen zu befestigen oder für Abstimmungen
 
-## Durchführung des Meetings oder Workshops
+### Durchführung des Meetings oder Workshops
 
-### Praktische Hinweise
+#### Praktische Hinweise
 
 **Timeboxen**
 
@@ -362,7 +366,7 @@ Fragen stellen vom Moderator um die Bewertung besser zu verstehen.
 - Flipchart in kombination mit Pinnwand für jegliche notizen
 
 
-### Das erste Kennenlernen
+#### Das erste Kennenlernen
 
 - Alternative Reihenfolgen
   - nach Geburtstagen
@@ -379,7 +383,7 @@ Fragen stellen vom Moderator um die Bewertung besser zu verstehen.
 - Steckbrief
   - wird vorher verfasst und für alle sichtbar aufgehängt/angepinnt
 
-### Die Arbeit mit Kleingruppen
+#### Die Arbeit mit Kleingruppen
 
 **Sinn der Kleingruppen?**
 
@@ -422,7 +426,7 @@ Fragen stellen vom Moderator um die Bewertung besser zu verstehen.
     - mit der ganzen Gruppe 
     - Ergebnisse nochmal kürzer fassen bzw. Clustern
 
-### Meinungsbilder und Abstimmungen
+#### Meinungsbilder und Abstimmungen
 
 - Punkte kleben
   - Einpunktfrage -> eine Stimme abgeben bzw. ein Klebepunkt
@@ -446,11 +450,71 @@ Fragen stellen vom Moderator um die Bewertung besser zu verstehen.
   
 ### Abschluss der Moderation und Nachbereitung
 
-**Kein Workshop ohne Maßnahmen!**
-
-- Darauf achten das Zeit für die 
-
-
+- Darauf achten das Zeit am Ende noch übrig bleibt für den Abschluss
   
+**Kurze Zusammenfassung des Ergebnisses und Ausblick**
+
+- nächste Treffen vereinbart
+- Man kann Themenwünsche für den nächsten Workshop schonmal besprechen
+- Wer möchte nächsten mal Moderator sein oder Co Moderator?
+  
+**Protokoll**
+
+- Von den Ergebnissen Fotos machen und als PDF zusammenfassen
+- fertiges Protokoll zeitnah an alle Teilnehmer versenden
+
+**Folgeaufgaben**
+
+- Gibt es Aufgaben, die verteilt wurden? Diese einholen und auf richtigkeit überprüfen
+
+### Spielregeln für Meetings
+
+- Es gibt unbewusste und bewusste Regeln
+  -> in diesem Fall sind bewusst aufgestellte Regeln wichtiger
+
+**Verhaltensregeln**
+
+![](media/Verhaltensregeln.png 'scale: 30%')
+
+- Jeder ist für den Erfolg (mit)verantwortlich
+  - Moderator ist für den Weg verantwortlich
+  - Team für die Qualität der Ergebnisse
+
+- Störungen haben Vorrang
+  - schlechte Luft
+  - störende Teilnehmer
+  - Konzentration lässt nach
+  
+    -> Lüften, Gespräch suchen, Pause
+
+- Immer nur einer zu einer Zeit
+  - immer nur ein Sprecher
+  
+- Jeder spricht für sich persönlich
+  - In der Ich Form sprechen
+  
+- Wir sprechen zu Anwesenden, nicht über sie
+  - Die Personen direkt ansprechen, nicht über dritte
+
+- Wir lassen uns ausreden und hören zu – Wir versuchen zu verstehen
+  - Jeden Beitrag warhnehmen und zuhören
+  
+- Wir sagen die eigene Meinung  
+  - Meinungen der Teilnehmer sollen durch konkrete Fragestellungen des Moderators widergespiegelt werden und dadurch den Diskussionsprozess anregen 
+  - 
+
+- Wir fassen uns kurz
+  
+- What happens in Vegas, stays in Vegas!
+  - Was im raum besproche wurde, bleibt im auch im Raum
+  - Man sollte in dem Meeting/Workshop ein Gefühl von Vertrauen Schaffen.
+
+**Meeting Knigge als Poster**
+
+![](media/Meeting-Knigge.png 'scale: 30%')  
+
+- Es zeigt klare Regeln für Teilnehmer und Moderator für die Vorbereitung, Durchführung und Nachbereitung von Besprechungen
+
+- Es hängt im Meetingraum für alle sichtbar
   
 
