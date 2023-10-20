@@ -18,5 +18,15 @@
 |-------------|---------------------------------------------|--------|
 | 16.10.2023  |       Weiter an der Präsentation gearbeitet und weiter das Buch gelesen.                                       | 1,5 h  |
 | 18.10.2023  |         Alle Bilder herausgesucht und die Präsentation **vorerst** abgeschlossen in Bezug auf den eigenen Inhalt                                                                | 2,0 h  |
-| 01.10.2023  |                                             | 0,0 h  |
-| **Gesamt:**  |                                            | **3,5 h**  |
+| 20.10.2023  |               Teambesprechung, Vortrag geplant, Themenvorstellung                            | 1,2 h  |
+| **Gesamt:**  |                                            | **4,7 h**  |
+
+
+**Woche:** *43*
+
+| Datum       | Tätigkeit                                  | Dauer  |
+|-------------|---------------------------------------------|--------|
+| 01.10.2023  |                                              | 0,0 h  |
+| 01.10.2023  |                                               | 0,0 h  |
+| 01.10.2023  |                                               | 0,0 h  |
+| **Gesamt:**  |                                            | **0,0 h**  |
