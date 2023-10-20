@@ -174,8 +174,7 @@ Personas?
 
 ---
 ## Owner des Product Backlogs
-- Management des Product Backlogs
-- 
+![](1_Quellen/aufgaben-scrum-product-owner-1024x724-1.jpg)
 
 
 ---
