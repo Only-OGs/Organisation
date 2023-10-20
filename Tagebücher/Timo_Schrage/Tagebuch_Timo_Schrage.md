@@ -16,8 +16,8 @@
 |-------------|---------------------------------------------|--------|
 | 18.10.2023  | Lesen des Buchs und Markieren relevanter Inhalte | 2,0 h  |
 | 19.10.2023  | Erstellen der Präsentation Kapitel 13-16 | 2,0 h  |
-| 20.10.2023  | Erstellen der Präsentation Kapitel 17 | 0,5 h  |
-| **Gesamt:**  |                                            | **4,5 h**  |
+| 20.10.2023  | Erstellen der Präsentation Kapitel 17, Meeting: Besprechen der bisherigen Ergebnisse | 1,5 h  |
+| **Gesamt:**  |                                            | **5,5 h**  |
 
 
 
