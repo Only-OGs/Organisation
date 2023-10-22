@@ -69,8 +69,6 @@ Elemente:
 ---
 
 
----
-
 # Projekt Charter
 Die Vision gibt die Richtung vor, die Project Charter genehmigt und klärt die Projektparameter genauer.
 
