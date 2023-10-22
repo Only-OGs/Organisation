@@ -17,3 +17,10 @@
 | 20.10.2023  |Teambesprechung zum weiteren vorgehen | 1,2 h  |
 | 22.10.2023  |Weiteres Testing + erneute Einrichtung zum vertiefen| 3 h  |
 | **Gesamt:** |                                            | **5,2 h**|
+
+**Woche:** *43*
+
+| Datum       | Tätigkeit                                  | Dauer  |
+|-------------|---------------------------------------------|--------|
+|00.00.2023|---|0,0 h|
+| **Gesamt:**  |                                            | **0,0 h**  |
