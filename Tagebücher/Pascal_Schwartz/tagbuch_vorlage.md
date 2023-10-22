@@ -14,4 +14,6 @@
 | Datum       | Tätigkeit                                  | Dauer  |
 |-------------|--------------------------------------------|--------|
 | 18.10.2023  |GitHub/Kanban Recherche und erste Einrichtung innerhalb der Organisation| 1 h  |
-| **Gesamt:** |                                            | **0,0 h**|
+| 20.10.2023  |Teambesprechung zum weiteren vorgehen | 1,2 h  |
+| 22.10.2023  |Weiteres Testing + erneute Einrichtung zum vertiefen| 3 h  |
+| **Gesamt:** |                                            | **5,2 h**|
