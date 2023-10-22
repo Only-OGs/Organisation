@@ -21,7 +21,8 @@
 | 20.10.2023  | Kapitel 21 weiter zusammengefasst  | 0,5 h  |
 | 20.10.2023  | Präsentation angefangen und Struktur erstellt  | 1,0 h  |
 |20.10.2023| Teambesprechung der Zusammenfassungen und Besprechungen für das weitere Vorgehen|1,2 h|
-| **Gesamt:**  |                                            | **8,2 h**  |
+|22.10.2023|Präsentation erarbeitet|4,0 h|
+| **Gesamt:**  |                                            | **12,2 h**  |
 
 <br>
 
