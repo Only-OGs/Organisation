@@ -9,7 +9,7 @@
 - Alle Flugzeuge richten sich auf diesen Standard aus
 
 
-Somit wird der Luftraum für die navigation der Flugzeuge sicher vertikal aufgeteilt
+Somit wird sichergestellt das Flugzeuge im Luftraum vertikal sicher aufgeteilt werden
 
 ---
 **Flight Level in Kanban**
@@ -22,11 +22,6 @@ Somit wird der Luftraum für die navigation der Flugzeuge sicher vertikal aufget
 
 
 ***"Flight Level"*** beschreibt somit das Anwenden von Kanban-Systemen auf Teamebene bis zur Steuerung der gesamten Organisation.
-
-
-***"Wertstrom (,,value stream'')"***
-umfasst alle Schritte, die erforderlich sind, um ein Produkt oder eine Dienstleistung vom Auftragseingang bis zur Auslieferung zu erstellen, darunter Analyse, Design, Umsetzung und Auslieferung.
-
 
 ---
 
@@ -42,11 +37,6 @@ umfasst alle Schritte, die erforderlich sind, um ein Produkt oder eine Dienstlei
 - Geeignet für Projekte, bei denen ein Team Kundenwünsche umsetzt.
 
 
-Bei komplexeren Projekten oder mehreren beteiligten Teams stößt es an Grenzen.
-
-Hier kommt ***"Flight Level 2"*** ins Spiel.
-
-
 ---
 
 **Flight Level 2 Koordination mehrerer Teams**
@@ -55,23 +45,21 @@ Hier kommt ***"Flight Level 2"*** ins Spiel.
 
 - teamübergreifende Koordination & die Optimierung des gesamten Wertstroms
 
-- alle Teams einbezogen, die an der Umsetzung von Kundenwünschen & der Bereitstellung von Leistungen im Wertstrom beteiligt sind
+- alle Teams einbezogen, die an der Umsetzung von Kundenwünschen beteiligt sind
 
 - steht die Optimierung der Zusammenarbeit und die Begrenzung der Arbeitslast im Fokus
-
-- einzelnen Teams unter diesem Koordinierungsboard ihre eigenen Teamboards verwenden können
-  -  -> Kanban ist dabei keine Pflicht
 
 ---
 
 **Flight Level 3 Strategische Portfolioebene**
 
 
-- geht es darum, wie ein Unternehmen seine verschiedenen Projekte, Programme und strategischen Initiativen koordiniert
+- geht es darum, wie ein Unternehmen seine verschiedenen Projekte  koordiniert
 
 - Ziel ist, sicherzustellen, dass diese Initiativen gut zusammenarbeiten und die Ressourcen sinnvoll genutzt werden
 
 - Auf dieser Ebene geht es darum, klug zu entscheiden, welche Projekte Vorrang haben und wie Ressourcen am besten genutzt werden können.
+  
   -  Strategieboard hilft dabei, den Überblick über all diese Entscheidungen zu behalten
 
 
@@ -82,7 +70,8 @@ Hier kommt ***"Flight Level 2"*** ins Spiel.
 *Zusammenspiel der Flight Level*
 
 
-- Board bildet auf der oberstenen Ebene die Arbeiten ab
+- Das Board bildet auf der oberstenen Ebene die Arbeiten ab
+  
    - -> es lässt sich der Stand von Projekten mitverfolgen
 
   
@@ -95,7 +84,11 @@ Hier kommt ***"Flight Level 2"*** ins Spiel.
 - Kanban auf Level 1 kann dazu führen, dass durch positive Erfahrungen, das Kanban verfahren auf höhreren Ebenen angewandt wird
 
 - Kanban auf Level 3 einzusetzen, kann auch dazu führen das die darunterliegenden Level sich dem System anschließen
+  
+**Zusammenfassend**
 
-- sollte ein Unternehmen ein Strategieboard verwenden, würde das bedeuten das alle Ebenen die Möglichkeit haben mit Kanban zu arbeiten
-
-Flight Level sind ein Kommunikationsinstrument und helfen bei der Entscheidungsfindung. Mit den Flight Levels kann die zu erwartende Wirkung des Einsatzes von Kanban auf den drei Ebenen dargestellt werden.
+- Flight Level sind ein Kommunikationsinstrument
+  
+- helfen bei der Entscheidungsfindung. 
+  
+- mit den Flight Levels kann die zu erwartende Wirkung des Einsatzes von Kanban auf den drei Ebenen dargestellt werden.

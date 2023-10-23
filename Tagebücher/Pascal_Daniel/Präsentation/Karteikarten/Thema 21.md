@@ -8,37 +8,13 @@
 3. Phasen der Moderation und ausgewählten Techniken
 
 4. Regeln, Tipps und praktische Hinweise - Meetings/Workshops
-   
----
-
-### Meeting und Workshop
-
-
-**Meeting:**
-
-- Arbeitnehmer aus einem bestimmten Arbeitsgebiet die Möglichkeit sich persönlich auszutauschen
-
-- Sowohl bei Planungen, Problemen, einem Meinungsaustausch oder verschiedene Sachverhalte zu klären
-
-
-**Workshop:** 
-
-- Veranstaltung für kleinere Gruppen
-
-- kooperative und moderierte Arbeitsweise an einem gemeinsamen Ziel
-
-- begrenzte und kompakte Zeitdauer zu beachten
-
-
-
-In jedem **Workshop** oder moderierten **Meeting** gibt es klare Rollen und damit auch Verantwortlichkeiten.
 
 ---
 
 ### Die Rollen(Rollenverteilung)
 
 
-
+In jedem **Workshop** oder moderierten **Meeting** gibt es klare Rollen und damit auch Verantwortlichkeiten.
 
 |Rolle|Verantwortung|
 |-|-|
@@ -48,12 +24,6 @@ In jedem **Workshop** oder moderierten **Meeting** gibt es klare Rollen und dami
 ||Verantwortlich für den Ablauf der Veranstaltung|
 ||Unterstützt bei Bedarf und fördert das selbstständige Arbeiten jedes einzelnen aus der Gruppe|
 |**Teilnehmer**|sind für die Qualität des Ergebnisses verantwortlich|
-
----
-
-### Doppelrolle Teilnehmer - Moderator
-
-(BILD) Doppelrolle
 
 ---
 
@@ -98,26 +68,21 @@ Die Gestaltung von Meetings und Workshops
 
 ### Visualisieren
 
-- Unterstützt gemeinsames Arbeiten
-  
-- Probleme werden konkreter diskutiert
-  
-- Einfacheres Sortieren von Gedanken. Z.B. mit "Wichtig" und "Unwichtig"
-
--> **Aufgaben des Moderators**
+>**Aufgaben des Moderators**
 
 > - Richtige Raumwahl und Arbeitsmaterial bereit stellen(Flipchart)
 
-> - Visualisierungsmöglichkeiten bereit stellen
+> - Visualisierungsmöglichkeiten bereitstellen
 
-
+- Unterstützt gemeinsames Arbeiten
+- Probleme werden konkreter diskutiert
+- Einfacheres Sortieren von Gedanken. Z.B. mit "Wichtig" und "Unwichtig"
 
 ### Paraphrasieren
 
 - Man wiederholt das Empfangene mit seinen eigenen Worten
-  
 - Sachlichen Inhalt wiedergeben
-  
+
 
 ---
 
@@ -149,11 +114,9 @@ Die Gestaltung von Meetings und Workshops
 
 **Einstiegsphase**
 
-1. Jeder Teilnehmer erzählt kurz sein bisher schönstes Erlebnis am heutigen Tag
+- Jeder Teilnehmer erzählt kurz sein bisher schönstes Erlebnis am heutigen Tag
    
-2. Flipchart vorbereiten mit Bewertungsschema
-   
-3. Was für Inhalte sollen in der nächsten Phase bearbeitet werden?
+- Flipchart vorbereiten mit Bewertungsschema
 
 
 
@@ -184,8 +147,6 @@ Die Gestaltung von Meetings und Workshops
 
 - Mind-Map 
 
-- durch Flowchart(Flussdiagramm)
-
 - Bearbeitung in Kleingruppen
 
 ---
@@ -193,13 +154,14 @@ Die Gestaltung von Meetings und Workshops
 **Maßnahmen planen**
 
  - Tabelle mit den geplanten Maßnahmen
-    - Aktivität
   
-    - Wer?
+    - Thema
+  
+    - Wer mach was?
 
-    - Bis wann?
+    - Bis wann fertig?
   
-    - Mit wem? 
+    - Mit wem zusammen? 
 
 **Abschluss**
 
@@ -209,21 +171,6 @@ Die Gestaltung von Meetings und Workshops
   
   - Was war hinderlich? 
   
-- Return on Time Invested
-
----
-
-
-(BILD)
-
-Bewertung mit Klebepunkten der Teilnehmer
-
-- Negativer Raum wenig Nutzen für die investierte Zeit
-
-- Positiver Raum hoher Nutzen für die investierte Zeit
-
-Fragen stellen vom Moderator um die Bewertung besser zu verstehen.
-
 
 ---
 ### Regeln, Tipps und praktische Hinweise
@@ -246,7 +193,6 @@ Fragen stellen vom Moderator um die Bewertung besser zu verstehen.
   
 - Ziel der Veranstaltung angeben
   
-- Agenda mit angeben
 
 
 **Material**
@@ -313,11 +259,10 @@ Fragen stellen vom Moderator um die Bewertung besser zu verstehen.
 **Sinn der Kleingruppen?**
 
 
-- mehr Ideen
+- mehr Ideen kommen zusammen
   
-- intensiver Austausch
+- intensiver Austausch der Teilnehmer
   
-- animiert ruhigere Teilnehmer sich mit einzubringen
 
 **Ideen für Gruppenbildung**
 
@@ -343,9 +288,7 @@ Fragen stellen vom Moderator um die Bewertung besser zu verstehen.
   
   - Aufgabenstellung für die Gruppenarbeit
   
-  - Rollenklärung
-  
-    - wer macht was
+  - Rollenklärung -> wer macht was
 
 
 **Austausch der Gruppenergebnisse im Plenum**
@@ -366,8 +309,7 @@ Fragen stellen vom Moderator um die Bewertung besser zu verstehen.
   - Einpunktfrage -> eine Stimme abgeben bzw. ein Klebepunkt
   
   - Mehrpunktfrage -> mehrere Stimmen abgeben
-  
-  - Mehrpunktfrage maximal 3 Punkte pro Option
+  - 
   
 - **Räumlich abstimmen**
   
@@ -397,11 +339,6 @@ Fragen stellen vom Moderator um die Bewertung besser zu verstehen.
 - Von den Ergebnissen Fotos machen und als PDF zusammenfassen
   
 - fertiges Protokoll zeitnah an alle Teilnehmer versenden
-
-
-**Folgeaufgaben**
-
-- Aufgaben, die verteilt wurden? Diese einholen und auf Richtigkeit überprüfen
 
 ---
 
