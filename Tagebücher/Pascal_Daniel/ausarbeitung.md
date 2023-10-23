@@ -17,10 +17,6 @@
 
 ## Flight Level in Kanban
 
-- Klaus Leopold hat das Bild der Flight Level in Kanban entwickelt
-
-- Analogie zur Fliegerei ist dabei bewusst gewählt
-
 -> Je höher man fiegt, desto weniger Details sieht man, aber dafür ist der Überblick besser
 
 -> Je niedriger man fliegt, umso mehr Details sieht man, aber dafür ist der Überblick schlechter
@@ -35,50 +31,41 @@ umfasst alle Schritte, die erforderlich sind, um ein Produkt oder eine Dienstlei
 
 - Es gibt 3 verschiedene Ebenen
 
-- Flight Level 1
-
-- Flight Level 2
-
-- Flight Level 3 
-
 ![](media/Flight%20Levels.png 'scale: 30%')
 
 ### Flight Level 1 Operative Ebene
 
-Auf **"Flight Level 1"** (Operative Ebene) konzentriert sich ein einzelnes Team auf die Visualisierung seiner Arbeit und die Anwendung von den Kanban-Praktiken, um seine lokale Arbeit zu optimieren. Dies funktioniert gut für Projekte, bei denen ein Team Kundenwünsche umsetzt. Bei komplexeren Projekten oder wenn mehrere Teams beteiligt sind, stoßen sie jedoch an ihre Grenzen. Die Zusammenarbeit zwischen den Teams muss optimiert werden, ähnlich dem Zusammenspiel der Tastenreihen auf einer Tastatur, um den Gesamtprozess zu beschleunigen. 
+**"Flight Level 1"** (Operative Ebene) konzentriert sich ein einzelnes Team auf die Visualisierung seiner Arbeit und die Anwendung von den Kanban-Praktiken, um seine lokale Arbeit zu optimieren.
+
+Dies funktioniert gut für Projekte, bei denen ein Team Kundenwünsche umsetzt. 
+
+- Bei komplexeren Projekten oder wenn mehrere Teams beteiligt sind, stoßen sie jedoch an ihre Grenzen. 
+  
+- Die Zusammenarbeit zwischen den Teams muss optimiert werden, ähnlich dem Zusammenspiel der Tastenreihen auf einer Tastatur, um den Gesamtprozess zu beschleunigen. 
 
 Hier kommt **"Flight Level 2"** ins Spiel.
 
 ### Flight Level 2 Koordination mehrerer Teams
 
-Hier geht es um die teamübergreifende Koordination und die Optimierung des gesamten Wertstroms. Hier werden alle Teams einbezogen, die an der Umsetzung von Kundenwünschen und der Bereitstellung von Leistungen im Wertstrom beteiligt sind. Die Arbeit der Teams entlang des gesamten Wertstroms wird über ein Koordinierungsboard gesteuert, das den Arbeitsprozess von Kundenwünschen bis zur Auslieferung an den Kunden abbildet. Dabei steht die Optimierung der Zusammenarbeit und die Begrenzung der Arbeitslast im Fokus.
+Hier geht es um die teamübergreifende Koordination und die Optimierung des gesamten Wertstroms.
+
+Hier werden alle Teams einbezogen, die an der Umsetzung von Kundenwünschen und der Bereitstellung von Leistungen im Wertstrom beteiligt sind.
+
+Hier steht die Optimierung der Zusammenarbeit und die Begrenzung der Arbeitslast im Fokus.
 
 Es ist wichtig zu beachten, dass die einzelnen Teams unter diesem Koordinierungsboard ihre eigenen Teamboards verwenden können, wobei es nicht zwingend notwendig ist, dass alle Teams Kanban einsetzen. 
 
-Die Entscheidung, Kanban auf dieser Managementebene einzusetzen, erfolgt ab "Flight Level 2". Bei Programmen, bei denen mehrere Projekte zusammengefasst werden, kann ein Program Manager über "Flight Level 2" entscheiden.
-
 ### Flight Level 3 Strategische Portfolioebene
 
-Auf "Flight Level 3" geht es darum, wie ein Unternehmen seine verschiedenen Projekte, Programme und strategischen Initiativen koordiniert. Das Ziel ist, sicherzustellen, dass diese Initiativen gut zusammenarbeiten und die Ressourcen sinnvoll genutzt werden.
+Geht es darum, wie ein Unternehmen seine verschiedenen Projekte, Programme und strategischen Initiativen koordiniert. 
+
+Das Ziel ist, sicherzustellen, dass diese Initiativen gut zusammenarbeiten und die Ressourcen sinnvoll genutzt werden.
 
 Denken Sie zum Beispiel an eine Bildungseinrichtung, die verschiedene Kurse anbietet. Sie muss entscheiden, welche neuen Kurse oder Lehrmethoden sie einführen sollte. Dies geschieht oft in Form von Projekten.
 
-Auf dieser Ebene geht es darum, klug zu entscheiden, welche Projekte Vorrang haben und wie Ressourcen am besten genutzt werden können. Die Grundidee ist, Projekte zu beenden, bevor man neue beginnt. Ein sogenanntes Strategieboard hilft dabei, den Überblick über all diese Entscheidungen zu behalten.
+Auf dieser Ebene geht es darum, klug zu entscheiden, welche Projekte Vorrang haben und wie Ressourcen am besten genutzt werden können. Die Grundidee ist, Projekte zu beenden, bevor man neue beginnt. 
 
-Die Entscheidung, Kanban auf "Flight Level 3" zu verwenden, wird von höheren Managern im Unternehmen getroffen.
-
-### Nutzen der Flight Level
-
-- je höher die Ebene um so größer der Hebel für Veränderungen
-
-- Kanban auf Level 1 kann dazu führen, dass durch positive Erfahrungen, das Kanban verfahren auf höhreren Ebenen angewandt wird.
-
-- wenn die oberste Führungsebene Flight Level 3 erfolgreich zeigt, wie nützlich und effektiv Kanban  bei der Steuerung der Arbeit sind, werden die unteren Ebenen eher bereit sein, diese Praktiken zu übernehmen.
-
-- sollte ein Unternehmen ein Strategieboard verwenden, würde das bedeuten das alle Ebenen die Möglichkeit haben mit Kanban zu arbeiten
-
-
-
+Ein sogenanntes Strategieboard hilft dabei, den Überblick über all diese Entscheidungen zu behalten.
 
 ![](media/Strategieboard.png 'scale: 30%')
 
@@ -92,6 +79,18 @@ Die Entscheidung, Kanban auf "Flight Level 3" zu verwenden, wird von höheren Ma
   - Arbeit von mehreren Teams oder bei Programmen -> Ebene 2
 
 So kann der Einsatz von Kanban über die verschiedenen Flight Level für sehr viel Transparenz sorgen.
+
+
+### Nutzen der Flight Level
+
+- je höher die Ebene um so größer der Hebel für Veränderungen
+
+- Kanban auf Level 1 kann dazu führen, dass durch positive Erfahrungen, das Kanban verfahren auf höhreren Ebenen angewandt wird.
+
+- wenn die oberste Führungsebene Flight Level 3 erfolgreich zeigt, wie nützlich und effektiv Kanban  bei der Steuerung der Arbeit sind, werden die unteren Ebenen eher bereit sein, diese Praktiken zu übernehmen.
+
+- sollte ein Unternehmen ein Strategieboard verwenden, würde das bedeuten das alle Ebenen die Möglichkeit haben mit Kanban zu arbeiten
+
 
 **Zusammenfassung:**
 
@@ -110,15 +109,16 @@ Hier haben AN aus einem bestimmten Arbeitsgebiet die Möglichkeit sich persönli
 
 Es ist eine Veranstaltung für kleinere Gruppen. Das herausstechende Merkmal für diese Kleingruppe ist, eine kooperative und moderierte Arbeitsweise an einem gemeinsamen Ziel. Außerdem ist eine begrenzte und kompakte Zeitdauer zu beachten.
 
+In jedem **Workshop** oder moderierten **Meeting** gibt es klare Rollen und damit auch Verantwortlichkeiten.
+
 
 ## Die Rollen(Rollenverteilung)
 
 ### Überblick über die Rollen und deren Verantwortlichkeiten
 
-In jedem **Workshop** oder moderierten Meeting gibt es klare Rollen und damit auch Verantwortlichkeiten.
 
-**Projektleiter**
-- Er kann Moderator aber auch Teilnehmer sein oder beides
+**Auftraggeber**
+- für die Vorgabe des Ziels verantwortlich
 
 **Moderator:** 
 - Plant & steuert den Workshop
@@ -129,16 +129,18 @@ In jedem **Workshop** oder moderierten Meeting gibt es klare Rollen und damit au
 
 **Die Teilnehmer**
 - sind für die Qualität des Ergebnisses verantwortlich. **Team = Wissenträger**
+
+**Projektleiter**
+- Er kann Moderator aber auch Teilnehmer sein oder beides
   
-**Auftraggeber**
-- für die Vorgabe des Ziels verantwortlich
 
 ### Doppelrolle Teilnehmer - Moderator
 
 ![](media/Doppelrolle.jpeg 'scale: 30%')
 
 1. Wird zu Beginn der gemeinsamen Arbeit klargestellt
-2. Bei Beteiligung wie einem Beitrag die aktuell eingenomme Rolle transparent machen
+   
+2. Bei Beteiligung wie bei einem Beitrag die aktuell eingenomme Rolle transparent machen
 3. Den Teammitgliedern immer den Vortritt lassen;
  
      - Wissen der Teammitglieder wird in Frage gestellt; das Team verliert Interesse sich zu beteiligen
@@ -166,7 +168,7 @@ In jedem **Workshop** oder moderierten Meeting gibt es klare Rollen und damit au
 
 Je umfassender der Wissensstand und die Handswerkzeuge des Moderators sind, umso gezielter und flexibler kann er in seiner Rolle arbeiten
 
-Förderung des Gruppengeschehens durch entsprechende Fragetechniken wie das PAKKO Modell
+Förderung des Gruppengeschehens durch entsprechende Fragetechniken wie das **PAKKO Modell**
 
 
 P Persönlich Du, Sie, Ihr…
@@ -180,19 +182,6 @@ K Konkret Nach einem konkreten Aspekt des Themas fragen
 
 O Offen Offene W-Fragen stellen: wer, wann, was, warum,
 
-|PAKKO-Fragen|| |
-|-------------|---------------------------------------------|--------|
-| P  | Persönlich                | Du, Sie, Ihr…  |
-| A | Aktivierend                      | Nach persönlichen Erlebnissen fragen  |
-| K  | Kurz und Knackig                                            | Einfache Sätze, keine Bandwurmkonstrukte, keine Verschachtelungen  |
-| K  | Konkret                                            | Nach einem konkreten Aspekt des Themas fragen  |
-| O  | Offen                                           | Offene W-Fragen stellen: wer, wann, was, warum, wie?
-
-
-**Paraphrasieren**
-
-- Man wiederholt das Empfangene mit seinen eigenen Worten
-- Sachlichen Inhalt wiedergeben
 
 **Visualisieren**
 
@@ -210,12 +199,15 @@ O Offen Offene W-Fragen stellen: wer, wann, was, warum,
     > - Flipcharts nutzen
     > - Aussagekräftige Farben und Symbole nutzen
 
-**Anregungen für Visualisierungen**
+*Anregungen für Visualisierungen*
 
 ![](media/Mind_Map.jpeg 'scale: 30%')
     
 
-  
+**Paraphrasieren**
+
+- Man wiederholt das Empfangene mit seinen eigenen Worten
+- Sachlichen Inhalt wiedergeben
 
 **Zusammenfassen**
 
@@ -265,12 +257,12 @@ O Offen Offene W-Fragen stellen: wer, wann, was, warum,
         - In und Outputs bestimmen
         - danach im Team diskutieren/ und Flussdiagramm verbessern falls erforderlich
 
-- Bearbeitung in Kleingruppen**
+- Bearbeitung in Kleingruppen
 
   - Ergebnisse in der Gruppe visualisieren
   - Ergebnisse werden vor allen dann vorgestellt
 
-- Geplante Lösung bewerten – Kraftfeldanalyse**
+- Geplante Lösung bewerten – Kraftfeldanalyse
 
   - Die Gruppe sammelt die Kräfte, die auf die geplante 
     Lösung einwirken:
@@ -316,7 +308,6 @@ Fragen stellen vom Moderator um die Bewertung besser zu verstehen.
 ![](media/7-%20Ps.png 'scale: 30%')
 
 - zeigen die wichtigsten Fragestellungen
-- Fragen beeinflussen sich gegenseitig
 
 #### Kleine Details der Vorbereitung
 
@@ -343,7 +334,7 @@ Fragen stellen vom Moderator um die Bewertung besser zu verstehen.
 
 ### Durchführung des Meetings oder Workshops
 
-#### Praktische Hinweise
+#### Praktische Hinweise zur Durchführung
 
 **Timeboxen**
 
@@ -372,7 +363,7 @@ Fragen stellen vom Moderator um die Bewertung besser zu verstehen.
   - nach Geburtstagen
   
 - Ball als Redezeichen
-  - Ball wird zu irgendjemanden geworfen, der sich dann vorstellt
+  - Ball wird zu irgendjemanden zu geworfen, der sich dann vorstellt
   
 - Partnerinterview
   - zwei Teilnehmer die sich nicht kennen
@@ -397,7 +388,7 @@ Fragen stellen vom Moderator um die Bewertung besser zu verstehen.
   - Zerschneiden von Fotos die dann mit anderen gemischt werden(Los Topf), wo jeder dann ein Puzzleteil zieht
   
 - Gruppenbildung über Motive
-  - Jeder wählt ein Motiv für sich und Personen mit gleichem Motiv bilden eien Gruppe
+  - Jeder wählt ein Motiv für sich und Personen mit gleichem Motiv bilden eine Gruppe
 - Aus einem Krabbelsack ziehen
   - Farbkugeln, Legosteine, Süßigkeiten
 - Abzählen
@@ -412,7 +403,7 @@ Fragen stellen vom Moderator um die Bewertung besser zu verstehen.
   *Genaue Punkte vorab bestimmen:*
 
   - Ziel der Gruppenarbeit
-  - Aufgabenstellung für die GRuppenarbeit
+  - Aufgabenstellung für die Gruppenarbeit
   - Zeitrahmen -> Zeitspanne festlegen
   - Gewünschtes Ergebnis festlegen
   - Rollenklärung
@@ -455,7 +446,9 @@ Fragen stellen vom Moderator um die Bewertung besser zu verstehen.
 **Kurze Zusammenfassung des Ergebnisses und Ausblick**
 
 - nächste Treffen vereinbart
+  
 - Man kann Themenwünsche für den nächsten Workshop schonmal besprechen
+  
 - Wer möchte nächsten mal Moderator sein oder Co Moderator?
   
 **Protokoll**
