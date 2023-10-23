@@ -18,6 +18,15 @@
 |-------------|---------------------------------------------|--------|
 | 17.10.2023  | Kapitel gelesen, Dokumnetiert, Zusammengefast und Präsentation angefangen    | 4,5 h  |
 | 18.10.2023  | Kapitel gelesen, Dokumnetiert, Zusammengefast und Präsentation bearbeitet    | 5,5 h  |
-| 01.10.2023  | Teambesprechung, Vortrag geplant            | 1,2 h  |
+| 20.10.2023  | Teambesprechung, Vortrag geplant            | 1,2 h  |
 | 01.10.2023  |                                             | 0,0 h  |
-| **Gesamt:**  |                                            | **10,0 h**  |
+| **Gesamt:**  |                                            | **11,2 h**  |
+
+---
+
+**Woche:** *43*
+
+| Datum       | Tätigkeit                                  | Dauer  |
+|-------------|---------------------------------------------|--------|
+| 23.10.2023  |Präsentattion gekürtzt, Karteikarten vorbereitet und geübt| 2,0 h  |
+| **Gesamt:**  |                                            | **2,0 h**  |
