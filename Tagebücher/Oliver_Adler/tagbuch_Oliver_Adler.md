@@ -8,7 +8,6 @@
 | 13.10.2023  |        1. Meeting, Literatur überflogen, Arbeitsaufteilung                                           | 2,0 h  |
 | 14.10.2023  |       kurzes Anpassen der Arbeitsaufteilung                                      | 0,5 h  |
 | 15.10.2023  |   Erste Inhalte in die Entwurfspräsentation mit aufgenommen                                                      | 2,0 h  |
-| 01.10.2023  |                                             | 0,0 h  |
 | **Gesamt:**  |                                            | **4,5 h**  |
 
 
@@ -26,7 +25,7 @@
 
 | Datum       | Tätigkeit                                  | Dauer  |
 |-------------|---------------------------------------------|--------|
-| 01.10.2023  |                                              | 0,0 h  |
+| 23.10.2023  |   Gemeinsame Besprechung, Überarbeitung der Präsentation und Vorstellen geübt                                         | 5,0 h  |
 | 01.10.2023  |                                               | 0,0 h  |
 | 01.10.2023  |                                               | 0,0 h  |
-| **Gesamt:**  |                                            | **0,0 h**  |
+| **Gesamt:**  |                                            | **5,0 h**  |
