@@ -22,5 +22,6 @@
 
 | Datum       | Tätigkeit                                  | Dauer  |
 |-------------|---------------------------------------------|--------|
-|00.00.2023|---|0,0 h|
-| **Gesamt:**  |                                            | **0,0 h**  |
+|23.10.2023|Erneutes Meeting zum Besprechen des Fortschritts|2 h|
+|24.10.2023|Erstellung einiger Folien und weitere Planung |1 h|
+| **Gesamt:**  |                                            | **3,0 h**  |
