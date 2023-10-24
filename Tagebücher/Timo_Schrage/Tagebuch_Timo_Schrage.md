@@ -19,5 +19,11 @@
 | 20.10.2023  | Erstellen der Präsentation Kapitel 17, Meeting: Besprechen der bisherigen Ergebnisse | 1,5 h  |
 | **Gesamt:**  |                                            | **5,5 h**  |
 
+**Woche:** 43
+
+| Datum       | Tätigkeit                                  | Dauer  |
+|-------------|---------------------------------------------|--------|
+| 23.10.2023  |     Meeting: Stand der Präsentation und weiteres Vorgehen besprochen    | 2,0 h  |
+| **Gesamt:**  |                                            | **2,0 h**  |
 
 
