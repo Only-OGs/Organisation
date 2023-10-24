@@ -17,6 +17,10 @@
 
 ## Flight Level in Kanban
 
+-> Der Flight Level Begriff stammt aus der Luftfahrt
+
+-> Die Analogie zur Fliegerei ist dabei bewusst gewählt
+
 -> Je höher man fiegt, desto weniger Details sieht man, aber dafür ist der Überblick besser
 
 -> Je niedriger man fliegt, umso mehr Details sieht man, aber dafür ist der Überblick schlechter
