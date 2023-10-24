@@ -26,6 +26,6 @@
 | Datum       | Tätigkeit                                  | Dauer  |
 |-------------|---------------------------------------------|--------|
 | 23.10.2023  |   Gemeinsame Besprechung, Überarbeitung der Präsentation und Vorstellen geübt                                         | 5,0 h  |
+| 24.10.2023  |   Einheitliche Foramtierungen auf alle Datei überführt, Vorstellen geübt und Einführung fertiggestellt                                       | 2,5 h  |
 | 01.10.2023  |                                               | 0,0 h  |
-| 01.10.2023  |                                               | 0,0 h  |
-| **Gesamt:**  |                                            | **5,0 h**  |
+| **Gesamt:**  |                                            | **7,5 h**  |
