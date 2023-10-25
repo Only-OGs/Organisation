@@ -29,4 +29,5 @@
 | Datum       | Tätigkeit                                  | Dauer  |
 |-------------|---------------------------------------------|--------|
 | 23.10.2023  |Präsentattion gekürtzt, Karteikarten vorbereitet und geübt| 2,0 h  |
-| **Gesamt:**  |                                            | **2,0 h**  |
+ 24.10.2023  |Präsentattion gekürtzt, Karteikarten vorbereitet und geübt| 2,0 h  |
+| **Gesamt:**  |                                            | **4,0 h**  |
