@@ -18,3 +18,10 @@
 | 20.10.2023  | Gruppen-Meeting                             | 1,2 h  |
 | 21.10.2023  | Ausarbeitung der Präsentation               | 5,0 h  |
 | **Gesamt:**  |                                            | **7,7 h**  |
+
+**Woche:** *43*
+
+| Datum       | Tätigkeit                                  | Dauer  |
+|-------------|---------------------------------------------|--------|
+| 25.10.2023  | Gruppen-Meeting und Präsentation überarbeitet + gekürtzt| 4,0 h  |
+| **Gesamt:**  |                                            | **4,0 h**  |
