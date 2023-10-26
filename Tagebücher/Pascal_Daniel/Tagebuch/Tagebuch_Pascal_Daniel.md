@@ -35,5 +35,6 @@
 |23.10.2023|Präsentation noch weiter gekürzt| 1,0 h |
 |24.10.2023|Präsentation weiter bearbeitet, gesamte Präsentation strukturiert und gegenseitiges Präsentieren| 2,0 h |
 |25.10.2023|Präsentation weiter komprimiert| 1,0 h |
-|25.10.2023|Meeting(siehe Protokoll) Präsentationsvortrag von allen + Weiteres Vorgehen besprochen + Präsentation verbessert| 3,0 |
-| **Gesamt:**  |                                            | **10,0 h**  |
+|25.10.2023|Meeting(siehe Protokoll) Präsentationsvortrag von allen + Weiteres Vorgehen besprochen + Präsentation verbessert| 3,0 h |
+|26.10.2023|Präsentation etwas abgeändert und weiter gekürzt| 1,0 h|
+| **Gesamt:**  |                                            | **11,0 h**  |
