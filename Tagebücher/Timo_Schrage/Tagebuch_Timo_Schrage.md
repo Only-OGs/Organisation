@@ -25,6 +25,7 @@
 |-------------|---------------------------------------------|--------|
 | 23.10.2023  |     Meeting: Stand der Präsentation und weiteres Vorgehen besprochen    | 2,0 h  |
 | 25.10.2023  |     Meeting: Vortrag zusammen geübt   | 2,0 h  |
-| **Gesamt:**  |                                            | **4,0 h**  |
+| 26.10.2023  |     Meeting: Präsentation fertig gestellt und abgegeben  | 0,5 h  |
+| **Gesamt:**  |                                            | **4,5 h**  |
 
 
