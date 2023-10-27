@@ -24,4 +24,5 @@
 | Datum       | Tätigkeit                                  | Dauer  |
 |-------------|---------------------------------------------|--------|
 | 25.10.2023  | Gruppen-Meeting und Präsentation überarbeitet + gekürtzt| 4,0 h  |
-| **Gesamt:**  |                                            | **4,0 h**  |
+| 26.10.2023  | Gruppen-Meeting                | 0,5 h  |
+| **Gesamt:**  |                                            | **4,5 h**  |
