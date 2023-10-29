@@ -24,4 +24,6 @@
 | Datum       | Tätigkeit                                  | Dauer  |
 |-------------|---------------------------------------------|--------|
 | 25.10.2023  | Gruppen-Meeting und Präsentation überarbeitet + gekürtzt| 4,0 h  |
-| **Gesamt:**  |                                            | **4,0 h**  |
+| 26.10.2023  | Gruppen-Meeting und Präsentation überprüft  | 0,5 h  |
+| 25.10.2023  | Gruppen-Meeting für den Projektentwurf    | 2,5 h  |
+| **Gesamt:**  |                                            | **7,0 h**  |
