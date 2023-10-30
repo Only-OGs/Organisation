@@ -24,7 +24,9 @@
 | Datum       | Tätigkeit                                  | Dauer  |
 |-------------|---------------------------------------------|--------|
 | 23.10.2023  |     Meeting: Stand der Präsentation und weiteres Vorgehen besprochen    | 2,0 h  |
+| 24.10.2023  |     Vortrag geübt   | 1,0 h  |
 | 25.10.2023  |     Meeting: Vortrag zusammen geübt   | 2,0 h  |
-| **Gesamt:**  |                                            | **4,0 h**  |
+| 29.10.2023  |     Meeting: Ersten Entwurf erarbeitet | 2,5 h  |
+| **Gesamt:**  |                                            | **7,5 h**  |
 
 

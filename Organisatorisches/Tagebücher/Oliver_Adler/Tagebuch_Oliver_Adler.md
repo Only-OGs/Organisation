@@ -28,4 +28,7 @@
 | 23.10.2023  |   Gemeinsame Besprechung, Überarbeitung der Präsentation und Vorstellen geübt                                         | 5,0 h  |
 | 24.10.2023  |   Einheitliche Foramtierungen auf alle Datei überführt, Vorstellen geübt und Einführung fertiggestellt                                       | 2,5 h  |
 | 25.10.2023  |             Vorstellungsart verfeinert, Im Meeting sich gegenseitig alles vorgestellt und weiteres Vorgehen besprochen,                                 | 3,0 h  |
-| **Gesamt:**  |                                            | **10,5h**  |
+| 26.10.2023  |         Meeting fur Abgabe der Präsentation                                        | 0,5 h  |
+| 29.10.2023  |         Meeting für Entwurf                                          | 2,5 h  |
+| **Gesamt:**  |                                            | **13,0h**  |
+
