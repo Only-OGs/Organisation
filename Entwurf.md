@@ -2,7 +2,7 @@
 ## ***OG Retro Racer***
 ---
 
-*Autoren: Timo Schrage, Jan Schröder, Pascal Rene Daniel, Philip Kiesler-Großpitsch, Pascal Schwartz, Simon Gartzke, Oliver Elias Adler*
+*Autoren: Timo Schrage, Jan Schröder, Pascal Rene Daniel, Philip Kiesler-Großpietsch, Pascal Schwartz, Simon Gartzke, Oliver Elias Adler*
 
 ---
 
