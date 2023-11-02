@@ -32,3 +32,14 @@
 | 29.10.2023  |         Meeting für Entwurf                                          | 2,5 h  |
 | **Gesamt:**  |                                            | **13,0h**  |
 
+**Woche:** *44*
+
+| Datum       | Tätigkeit                                  | Dauer  |
+|-------------|---------------------------------------------|--------|
+| 30.10.2023  |   Entwurf  ausformuliert und abgabefertig aufbereitet                          | 2,0 h  |
+| 31.10.2023  |   Meeting, um den aktuellen Stand zu besprechen und den Entwurf abzugeben                                     |  0,5 h |
+|   |                                              |   |
+|   |                                               |   |
+|   |                                                  |   |
+| **Gesamt:**  |                                            | **2,5h**  |
+
