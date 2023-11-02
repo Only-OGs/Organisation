@@ -36,5 +36,15 @@
 |24.10.2023|Präsentation weiter bearbeitet, gesamte Präsentation strukturiert und gegenseitiges Präsentieren| 2,0 h |
 |25.10.2023|Präsentation weiter komprimiert| 1,0 h |
 |25.10.2023|Meeting(siehe Protokoll) Präsentationsvortrag von allen + Weiteres Vorgehen besprochen + Präsentation verbessert| 3,0 h |
-|26.10.2023|Präsentation etwas abgeändert und weiter gekürzt| 1,0 h|
-| **Gesamt:**  |                                            | **11,0 h**  |
+|26.10.2023|Präsentation etwas abgeändert und weiter gekürzt| 1,0 h |
+|29.10.2034|Meeting(siehe Protokoll) + Projektentwurf  | 2,5 h |
+| **Gesamt:**  |                                            | **13,5 h**  |
+
+<br>
+
+**Woche:** *44*
+
+| Datum       | Tätigkeit                                  | Dauer  |
+|-------------|---------------------------------------------|--------|
+|/ |/ | 0,0 h |
+| **Gesamt:**  |                                            | **0,0 h**  |
