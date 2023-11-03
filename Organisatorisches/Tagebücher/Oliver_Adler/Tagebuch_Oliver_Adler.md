@@ -38,8 +38,8 @@
 |-------------|---------------------------------------------|--------|
 | 30.10.2023  |   Entwurf  ausformuliert und abgabefertig aufbereitet                          | 2,0 h  |
 | 31.10.2023  |   Meeting, um den aktuellen Stand zu besprechen und den Entwurf abzugeben                                     |  0,5 h |
-|   |                                              |   |
+| 03.11.2023  |    Gemeinsames Meeting für die Planung des Projekstarts                                        | 1,0 h  |
 |   |                                               |   |
 |   |                                                  |   |
-| **Gesamt:**  |                                            | **2,5h**  |
+| **Gesamt:**  |                                            | **3,5h**  |
 
