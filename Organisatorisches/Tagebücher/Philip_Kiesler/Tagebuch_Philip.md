@@ -32,3 +32,12 @@
 |24.10.2023  |Präsentattion gekürtzt, Karteikarten vorbereitet und geübt| 2,0 h  |
 |25.10.2023  |Präsentattion gekürtzt, Karteikarten vorbereitet, geübt, Quellen verlinkt| 2,0 h  |
 | **Gesamt:**  |                                            | **6,0 h**  |
+
+**Woche:** *44*
+
+| Datum       | Tätigkeit                                  | Dauer  |
+|-------------|---------------------------------------------|--------|
+| 30.10.2023 |Entwurf ausformuliert und abgabefertig aufbereitet| 0,5 h  |
+|03.11.2023 |Meeting, um den aktuellen Stand zu besprechen und den Entwurf abzugeben| 1,0 h  |
+|04.11.2023 |Recherche| 1,3 h  |
+| **Gesamt:**  |                                            | **2,8 h**  |
