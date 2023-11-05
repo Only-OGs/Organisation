@@ -37,3 +37,4 @@
 | 31.10.2023  |   Meeting, um den aktuellen Stand zu besprechen und den Entwurf abzugeben                                     |  0,5 h |
 | 03.11.2023  |    Gemeinsames Meeting für die Planung des Projekstarts                                        | 1,0 h  |
 | 04.11.2023  |   Recherche zu Frameworks und Bibliotheken, Quellcodeanalyse                    | 2.0 h | 
+| **Gesamt:**  |                                            | **5,5 h**  |
