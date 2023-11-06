@@ -27,3 +27,18 @@
 | 26.10.2023  | Gruppen-Meeting und Präsentation überprüft  | 0,5 h  |
 | 25.10.2023  | Gruppen-Meeting für den Projektentwurf    | 2,5 h  |
 | **Gesamt:**  |                                            | **7,0 h**  |
+
+
+**Woche:** *44*
+
+| Datum       | Tätigkeit                                  | Dauer  |
+|-------------|---------------------------------------------|--------|
+| 3.11.2023  | Gruppen-Meeting      | 1,0 h  |
+| **Gesamt:**  |                                            | **1,0 h**  |
+
+**Woche:** *45*
+
+| Datum       | Tätigkeit                                  | Dauer  |
+|-------------|---------------------------------------------|--------|
+| 6.11.2023  | Team-Meeting und Gruppen-Meeting      | 1,0 h  |
+| **Gesamt:**  |                                            | **1,0 h**  |
