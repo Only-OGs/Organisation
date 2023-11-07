@@ -39,7 +39,7 @@
 | 30.10.2023  |   Entwurf  ausformuliert und abgabefertig aufbereitet                          | 2,0 h  |
 | 31.10.2023  |   Meeting, um den aktuellen Stand zu besprechen und den Entwurf abzugeben                                     |  0,5 h |
 | 03.11.2023  |    Gemeinsames Meeting für die Planung des Projekstarts                                        | 1,0 h  |
-|   |                                               |   |
-|   |                                                  |   |
-| **Gesamt:**  |                                            | **3,5h**  |
+|  05.11.2023 |  In die Dokumentation von pygame eingelesen und anhand kleinere Funktion das "Wissen" angewendet bzw. sich daran versucht                                       | 2,0 h  |
+|  06.11.2023 |    Meeting für die Frameworks                                              |1,0 h   |
+| **Gesamt:**  |                                            | **6,5h**  |
 
