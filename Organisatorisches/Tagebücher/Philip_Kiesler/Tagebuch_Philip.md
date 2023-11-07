@@ -41,3 +41,15 @@
 |03.11.2023 |Meeting, um den aktuellen Stand zu besprechen und den Entwurf abzugeben| 1,0 h  |
 |04.11.2023 |Recherche| 1,3 h  |
 | **Gesamt:**  |                                            | **2,8 h**  |
+
+
+		
+
+**Woche:** *45*
+
+| Datum       | Tätigkeit                                  | Dauer  |
+|-------------|---------------------------------------------|--------|
+| 6.11.2023 Team-Meeting und Gruppen-Meeting| 1,0 h |
+| **Gesamt:**  |                                            | **2,8 h**  |
+
+
