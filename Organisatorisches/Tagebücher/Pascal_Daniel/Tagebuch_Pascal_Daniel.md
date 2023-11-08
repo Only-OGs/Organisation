@@ -37,7 +37,7 @@
 |25.10.2023|Präsentation weiter komprimiert| 1,0 h |
 |25.10.2023|Meeting(siehe Protokoll) Präsentationsvortrag von allen + Weiteres Vorgehen besprochen + Präsentation verbessert| 3,0 h |
 |26.10.2023|Präsentation etwas abgeändert und weiter gekürzt| 1,0 h |
-|29.10.2034|Meeting(siehe Protokoll) + Projektentwurf  | 2,5 h |
+|29.10.2023|Meeting(siehe Protokoll) + Projektentwurf  | 2,5 h |
 | **Gesamt:**  |                                            | **13,5 h**  |
 
 <br>
@@ -46,5 +46,20 @@
 
 | Datum       | Tätigkeit                                  | Dauer  |
 |-------------|---------------------------------------------|--------|
-|/ |/ | 0,0 h |
-| **Gesamt:**  |                                            | **0,0 h**  |
+|31.10.2023|Meeting(siehe Protokoll) Entwurf besprochen | 0,5 h |
+|03.11.2023|Meeting(siehe Protokoll) Teamaufteilung + weiteres vorgehen besprochen| 1,0 h|
+|04.11.2023|Frameworks sowie Swing und die libGDX Engine sich angeschaut + JavaScript Source Code des Racer Games etwas angeschaut| 2,0 h|
+|05.11.2023|Kleines Java Meeting abgehalten und besprochen welches Framework bzw Engine wir nutzen wollen| 0,5 h|
+| **Gesamt:**  |                                            | **4,0 h**  |
+
+
+<br>
+
+**Woche:** *45*
+
+| Datum       | Tätigkeit                                  | Dauer  |
+|-------------|---------------------------------------------|--------|
+|06.11.2023|Meeting(siehe Protokoll) + Engine für Java ausgesucht und weiteres Vorgehen besprochen| 1,0 h|
+|07.11.2023|Angefangen sich mit der libGDX Engine vertraut zu machen, mit Videos und Dokumentation| 1,5 h|
+|07.11.2023|Sich mit dem Java Team verabredet und angefangen ein Projekt zu erstellen mit libGDX + Kleine Sachen schon fürs Game erstellt mithilfe des JavaScript Source Codes vom Racer Game | 3,0 h |
+| **Gesamt:**  |                                            | **5,5 h**  |
