@@ -31,3 +31,13 @@
 | 25.10.2023  |             Vorstellungsart verfeinert, Im Meeting sich gegenseitig alles vorgestellt und weiteres Vorgehen besprochen,                                 | 3,0 h  |
 | 29.10.2023  |      Meeting/Projektentwurf erstellen                              | 2,0 h  |
 | **Gesamt:**  |                                            | **10,5 h**  |
+
+**Woche:** *44*
+
+| Datum       | Tätigkeit                                  | Dauer  |
+|-------------|---------------------------------------------|--------|
+| 30.10.2023  |   Entwurf  ausformuliert und abgabefertig aufbereitet                          | 2,0 h  |
+| 31.10.2023  |   Meeting, um den aktuellen Stand zu besprechen und den Entwurf abzugeben                                     |  0,5 h |
+| 03.11.2023  |    Gemeinsames Meeting für die Planung des Projekstarts                                        | 1,0 h  |
+| 05.11.2023  |   Einlesen in Potenzielle Java Frameworks und anschließend Meeting zur Entscheidung                  | 3.0 h | 
+| **Gesamt:**  |                                            | **6,5 h**  |
