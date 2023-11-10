@@ -41,4 +41,5 @@
 | Datum       | Tätigkeit                                  | Dauer  |
 |-------------|---------------------------------------------|--------|
 | 6.11.2023  | Team-Meeting und Gruppen-Meeting      | 1,0 h  |
-| **Gesamt:**  |                                            | **1,0 h**  |
+| 8.11.2023  | Python Repo "aufgeräumt"             | 1,0 h  |
+| **Gesamt:**  |                                            | **2,0 h**  |
