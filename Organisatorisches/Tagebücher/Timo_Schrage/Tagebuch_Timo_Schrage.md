@@ -37,4 +37,16 @@
 | 31.10.2023  |   Meeting, um den aktuellen Stand zu besprechen und den Entwurf abzugeben                                     |  0,5 h |
 | 03.11.2023  |    Gemeinsames Meeting für die Planung des Projekstarts                                        | 1,0 h  |
 | 04.11.2023  |   Recherche zu Frameworks und Bibliotheken, Quellcodeanalyse                    | 2.0 h | 
+|05.11.2023|  Meeting im Java Team bezüglich Framework bzw. Engine die wir nutzen wollen| 0,5 h|
+| **Gesamt:**  |                                            | **6,0 h**  |
+
+
+**Woche:** *45*
+
+| Datum       | Tätigkeit                                  | Dauer  |
+|-------------|---------------------------------------------|--------|
+|06.11.2023|Meeting, Engine für Java ausgesucht und weiteres Vorgehen besprochen| 1,0 h|
+|07.11.2023| Projekt erstellt im Java Team + Gamefunktionen erstellt mithilfe des JavaScript Source Codes vom Racer Game | 3,0 h |
+|10.11.2023|Meeting: Besprechung des Kanbanboard | 1,0 h|
+|11.11.2023|Meeeting: kleinere Fragen geklärt| 0,5 h |
 | **Gesamt:**  |                                            | **5,5 h**  |
