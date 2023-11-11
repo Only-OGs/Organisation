@@ -62,4 +62,5 @@
 |06.11.2023|Meeting(siehe Protokoll) + Engine für Java ausgesucht und weiteres Vorgehen besprochen| 1,0 h|
 |07.11.2023|Angefangen sich mit der libGDX Engine vertraut zu machen, mit Videos und Dokumentation| 1,5 h|
 |07.11.2023|Sich mit dem Java Team verabredet und angefangen ein Projekt zu erstellen mit libGDX + Kleine Sachen schon fürs Game erstellt mithilfe des JavaScript Source Codes vom Racer Game | 3,0 h |
-| **Gesamt:**  |                                            | **5,5 h**  |
+|10.11.2023|Meeting(siehe Protokoll) hauptsächlich Besprechung wegen Kanbanboard | 1,0 h|
+| **Gesamt:**  |                                            | **6,5 h**  |
