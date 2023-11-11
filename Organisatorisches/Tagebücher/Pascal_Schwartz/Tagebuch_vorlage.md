@@ -42,5 +42,5 @@
 
 | Datum       | Tätigkeit                                  | Dauer  |
 |-------------|---------------------------------------------|--------|
-|06.11.2023|Meeting im Python Team Zwecks Framework Entscheidung| 1,0 h|
-| **Gesamt:**  |                                            | **1 h**  |
+|06.11.2023|Meeting im Python Team Zwecks Framework Entscheidung, danach erste Erstellung des Python Clients und Servers, inkl. kleines Schaubeispiels| 4,0 h|
+| **Gesamt:**  |                                            | **4 h**  |
