@@ -24,4 +24,23 @@
 |-------------|---------------------------------------------|--------|
 |23.10.2023|Erneutes Meeting zum Besprechen des Fortschritts|2 h|
 |24.10.2023|Erstellung einiger Folien und weitere Planung |1 h|
-| **Gesamt:**  |                                            | **3,0 h**  |
+|25.10.2023|Meeting, Präsentation gehört von allen, besprochen und angepasst| 3,0 h |
+|29.10.2023|Meeting(siehe Protokoll) + Projektentwurf  | 2,5 h |
+| **Gesamt:**  |                                            | **8,5 h**  |
+
+**Woche:** *44*
+
+| Datum       | Tätigkeit                                  | Dauer  |
+|-------------|---------------------------------------------|--------|
+|31.10.2023|Meeting - Besprechung des Entwurfs | 0,5 h |
+|03.11.2023|Meeting - Teamaufteilung und weiteres Vorgehen | 1,0 h|
+|04.11.2023|Recherche zu verschiedenen PythonEngines und Socket.IO| 3,0 h|
+|04.11.2023|Weitere Recherche zu PythonEngines | 2,0 h|
+| **Gesamt:**  |                                            | **6,5 h**  |
+
+**Woche:** *45*
+
+| Datum       | Tätigkeit                                  | Dauer  |
+|-------------|---------------------------------------------|--------|
+|06.11.2023|Meeting im Python Team Zwecks Framework Entscheidung| 1,0 h|
+| **Gesamt:**  |                                            | **1 h**  |
