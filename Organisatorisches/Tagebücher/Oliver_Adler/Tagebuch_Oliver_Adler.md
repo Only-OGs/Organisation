@@ -48,9 +48,9 @@
 | Datum       | Tätigkeit                                  | Dauer  |
 |-------------|---------------------------------------------|--------|
 | 10.11.2023  |                    Issues erstellt                               | 1,0 h  |
-|   |                                            |   |
+|  11.11.2023 |                    Quadar in Pyhton gerendert und die Bewegung davion via Pfeiltasten hinzugefügt - intensive Auseinandertsetzung mit pyglet   |  6,0 h |
 |   |                                                        |   |
-| **Gesamt:**  |                                            | **1,0 h**  |
+| **Gesamt:**  |                                            | **7,0 h**  |
 
 
 
