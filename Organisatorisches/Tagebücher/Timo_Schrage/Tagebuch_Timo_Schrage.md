@@ -49,4 +49,5 @@
 |07.11.2023| Projekt erstellt im Java Team + Gamefunktionen erstellt mithilfe des JavaScript Source Codes vom Racer Game | 3,0 h |
 |10.11.2023|Meeting: Besprechung des Kanbanboard | 1,0 h|
 |11.11.2023|Meeeting: kleinere Fragen geklärt| 0,5 h |
+|12.11.2023|Java Client: Input Handling hinzugefügt - grobe Struktur implementiert| 1,0 h |
 | **Gesamt:**  |                                            | **5,5 h**  |
