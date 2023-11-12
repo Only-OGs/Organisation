@@ -43,4 +43,7 @@
 | 6.11.2023  | Team-Meeting und Gruppen-Meeting      | 1,0 h  |
 | 8.11.2023  | Python Repo "aufgeräumt"             | 1,0 h  |
 | 8.11.2023  | Kanban-Board erstellt und drüber geredet             | 1,0 h  |
-| **Gesamt:**  |                                            | **3,0 h**  |
+| 9.11.2023  | Python-Client repo umgebaut             | 2,0 h  |
+| 10.11.2023  | Gruppen-Meeting und bisschen herum getestet             | 3,0 h  |
+| 11.11.2023  | Grundstruktur überlegt und beta vom Menü programmiert | 4,0 h  |
+| **Gesamt:**  |                                            | **12,0 h**  |
