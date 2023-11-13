@@ -47,9 +47,9 @@
 | Datum       | Tätigkeit                                  | Dauer  |
 |-------------|---------------------------------------------|--------|
 |31.10.2023|Meeting(siehe Protokoll) Entwurf besprochen | 0,5 h |
-|03.11.2023|Meeting(siehe Protokoll) Teamaufteilung + weiteres vorgehen besprochen| 1,0 h|
-|04.11.2023|Frameworks sowie Swing und die libGDX Engine sich angeschaut + JavaScript Source Code des Racer Games etwas angeschaut| 2,0 h|
-|05.11.2023|Kleines Java Meeting abgehalten und besprochen welches Framework bzw Engine wir nutzen wollen| 0,5 h|
+|03.11.2023|Meeting(siehe Protokoll) Teamaufteilung + weiteres vorgehen besprochen| 1,0 h |
+|04.11.2023|Frameworks sowie Swing und die libGDX Engine sich angeschaut + JavaScript Source Code des Racer Games etwas angeschaut| 2,0 h |
+|05.11.2023|Kleines Java Meeting abgehalten und besprochen welches Framework bzw Engine wir nutzen wollen| 0,5 h |
 | **Gesamt:**  |                                            | **4,0 h**  |
 
 
@@ -59,9 +59,21 @@
 
 | Datum       | Tätigkeit                                  | Dauer  |
 |-------------|---------------------------------------------|--------|
-|06.11.2023|Meeting(siehe Protokoll) + Engine für Java ausgesucht und weiteres Vorgehen besprochen| 1,0 h|
-|07.11.2023|Angefangen sich mit der libGDX Engine vertraut zu machen, mit Videos und Dokumentation| 1,5 h|
+|06.11.2023|Meeting(siehe Protokoll) + Engine für Java ausgesucht und weiteres Vorgehen besprochen| 1,0 h |
+|07.11.2023|Angefangen sich mit der libGDX Engine vertraut zu machen, mit Videos und Dokumentation| 1,5 h |
 |07.11.2023|Sich mit dem Java Team verabredet und angefangen ein Projekt zu erstellen mit libGDX + Kleine Sachen schon fürs Game erstellt mithilfe des JavaScript Source Codes vom Racer Game | 3,0 h |
-|10.11.2023|Meeting(siehe Protokoll) hauptsächlich Besprechung wegen Kanbanboard | 1,0 h|
+|10.11.2023|Meeting(siehe Protokoll) hauptsächlich Besprechung wegen Kanbanboard | 1,0 h |
 |11.11.2023|Meeeting(siehe Protokoll) + kleine Besprechung| 0,5 h |
-| **Gesamt:**  |                                            | **6,5 h**  |
+|11.11.2023|vorläufigen Java Client erstellt| 2,0 h |
+|12.11.2023|Angefangen ein Start Menü zu erstellen für das Game| 1,0 h |
+|12.11.2023|Zusammen mit Pascal Schwartz Tests zwischen Python Server und Java Client getestet und Verbesserungen durchgeführt | 0,5 h |
+| **Gesamt:**  |                                            | **10,5 h**  |
+
+<br>
+
+**Woche:** *46*
+
+| Datum       | Tätigkeit                                  | Dauer  |
+|-------------|---------------------------------------------|--------|
+|13.11.2023|Am Start Menü weitergearbeitet| 6,0 h |
+| **Gesamt:**  |                                            | **6,0 h**  |
