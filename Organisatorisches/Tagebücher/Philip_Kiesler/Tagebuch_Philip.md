@@ -49,7 +49,9 @@
 
 | Datum       | Tätigkeit                                  | Dauer  |
 |-------------|---------------------------------------------|--------|
-| 6.11.2023 Team-Meeting und Gruppen-Meeting| 1,0 h |
-| **Gesamt:**  |                                            | **2,8 h**  |
+| 6.11.2023 | Team-Meeting und Gruppen-Meeting| 1,0 h |
+| 10.11.2023 | Pyglet | 3,0 h |
+| 12.11.2023 | Team-Meeting und Gruppen-Meeting| 1,0 h |
+| **Gesamt:**  |                                            | **5 h**  |
 
 
