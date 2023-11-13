@@ -43,4 +43,6 @@
 | Datum       | Tätigkeit                                  | Dauer  |
 |-------------|---------------------------------------------|--------|
 |06.11.2023|Meeting im Python Team Zwecks Framework Entscheidung, danach erste Erstellung des Python Clients und Servers, inkl. kleines Schaubeispiels| 4,0 h|
-| **Gesamt:**  |                                            | **4 h**  |
+|10.11.2023|Meeting - Besprechung der Nutzung des Kanban Boards | 1,0 h|
+|12.11.2023|Weitere Arbeiten am Server, inkl. erster Funktionstests mit dem Java Client | 3 h |
+| **Gesamt:**  |                                            | **8 h**  |
