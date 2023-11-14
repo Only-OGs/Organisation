@@ -47,3 +47,10 @@
 | 10.11.2023  | Gruppen-Meeting und bisschen herum getestet             | 3,0 h  |
 | 11.11.2023  | Grundstruktur überlegt und beta vom Menü programmiert | 4,0 h  |
 | **Gesamt:**  |                                            | **12,0 h**  |
+
+**Woche:** *46*
+
+| Datum       | Tätigkeit                                  | Dauer  |
+|-------------|---------------------------------------------|--------|
+| 14.11.2023  | Programmiert auf dem feature/BaseCommunication Branch      | 0,8 h  |
+| **Gesamt:**  |                                            | **0.8 h**  |
