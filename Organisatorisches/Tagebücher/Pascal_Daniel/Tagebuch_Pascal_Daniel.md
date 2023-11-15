@@ -77,4 +77,5 @@
 |-------------|---------------------------------------------|--------|
 |13.11.2023|Am Start Menü weitergearbeitet| 6,0 h |
 |14.11.2023|Weiter am Menü gearbeitet(Multiplayer Screen mit Anmelden und Registrieren soweit fertig) | 5,0 h|
-| **Gesamt:**  |                                            | **6,0 h**  |
+|15.11.2023|Am Anmelde- und Registrierungsvorgang gearbeitet im Multiplayer Menü| 4,0 h|
+| **Gesamt:**  |                                            | **15,0 h**  |
