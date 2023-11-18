@@ -57,8 +57,9 @@
 | Datum       | Tätigkeit                                  | Dauer  |
 |-------------|---------------------------------------------|--------|
 | 15.11.2023  |          Versucht Menü zu optimieren                                | 2,0 h  |
-| 16.11.2023  |                                            | 0,0 h  |
-| **Gesamt:**  |                                            | **2,0 h**  |
+| 17.11.2023  |        Lokalen Server von Pascal eingerichtet                                | 0,5 h  |
+| 18.11.2023  |       Mit Python-Socket.io die Kommunikation zum lokalen Server hergestellt.                            | 2,0 h  |
+| **Gesamt:**  |                                            | **4,5 h**  |
 
 
 
