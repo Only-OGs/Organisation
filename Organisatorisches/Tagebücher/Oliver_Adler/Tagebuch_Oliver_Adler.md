@@ -56,8 +56,12 @@
 
 | Datum       | Tätigkeit                                  | Dauer  |
 |-------------|---------------------------------------------|--------|
-| 13.11.2023  |                                              | 0,0 h  |
-| **Gesamt:**  |                                            | **0,0 h**  |
+| 15.11.2023  |          Versucht Menü zu optimieren                                | 2,0 h  |
+| 17.11.2023  |        Lokalen Server von Pascal eingerichtet                                | 0,5 h  |
+| 18.11.2023  |       Mit Python-Socket.io die Kommunikation zum lokalen Server hergestellt.                            | 2,0 h  |
+| 19.11.2023  |       Weiter Kommunikationsfunktion hinzugefügt und den Client erweitert. pygame versucht zu installieren (leider bisher kein Erfolg )                         | 3,0 h  |
+| 18.11.2023  |       Wöchentliches Meeting mit dem gemeinsamen Team - Lösung für mein pygame-Problem gefunden               | 1,1 h  |
+| **Gesamt:**  |                                            | **8,6 h**  |
 
 
 

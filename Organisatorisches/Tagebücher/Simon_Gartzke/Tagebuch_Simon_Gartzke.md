@@ -53,4 +53,13 @@
 | Datum       | Tätigkeit                                  | Dauer  |
 |-------------|---------------------------------------------|--------|
 | 14.11.2023  | Programmiert auf dem feature/BaseCommunication Branch      | 0,8 h  |
-| **Gesamt:**  |                                            | **0.8 h**  |
+| 17.11.2023  | Game test programmiert     | 6,0 h  |
+| **Gesamt:**  |                                            | **6.8 h**  |
+
+**Woche:** *47*
+
+| Datum       | Tätigkeit                                  | Dauer  |
+|-------------|---------------------------------------------|--------|
+| 20.11.2023  | Auto implementiert     | 2,0 h  |
+| **Gesamt:**  |                                            | **2.0 h**  |
+
