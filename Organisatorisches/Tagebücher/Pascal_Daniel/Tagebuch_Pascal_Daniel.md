@@ -75,7 +75,18 @@
 
 | Datum       | Tätigkeit                                  | Dauer  |
 |-------------|---------------------------------------------|--------|
-|13.11.2023|Am Start Menü weitergearbeitet| 6,0 h |
-|14.11.2023|Weiter am Menü gearbeitet(Multiplayer Screen mit Anmelden und Registrieren soweit fertig) | 5,0 h|
-|15.11.2023|Am Anmelde- und Registrierungsvorgang gearbeitet im Multiplayer Menü| 4,0 h|
-| **Gesamt:**  |                                            | **15,0 h**  |
+|13.11.2023|Am Start Menü weitergearbeitet | 6,0 h |
+|14.11.2023|Weiter am Menü gearbeitet(Multiplayer Screen mit Anmelden und Registrieren soweit fertig) | 5,0 h |
+|15.11.2023|Am Anmelde- und Registrierungsvorgang gearbeitet im Multiplayer Menü| 4,0 h |
+|17.11.2023|Refactoring durchgeführt und mit Lobby Bereich angefangen | 6,0 h |
+|19.11.2023|Meeting abgehalten(siehe Protokoll), Aktuellen Stand besprochen | 1,2 h |
+| **Gesamt:**  |                                            | **22,2 h**  |
+
+<br>
+
+**Woche:** *47*
+
+| Datum       | Tätigkeit                                  | Dauer  |
+|-------------|---------------------------------------------|--------|
+|20.11.2023|Meeting(siehe Protokoll)| 1,0 h |
+| **Gesamt:**  |                                            | **1,0 h**  |
