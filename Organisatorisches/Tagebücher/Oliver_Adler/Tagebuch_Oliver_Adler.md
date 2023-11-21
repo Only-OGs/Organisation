@@ -64,6 +64,19 @@
 | **Gesamt:**  |                                            | **8,6 h**  |
 
 
+**Woche:** *47*
+
+| Datum       | Tätigkeit                                  | Dauer  |
+|-------------|---------------------------------------------|--------|
+| 21.11.2023  |          Neues Menü erstellt und Fonts hinzugefügt und disconnect ergänzt.                            | 5,0 h  |
+|  |        
+|   |                            |  |
+|   |                           |  |
+|   |                   |  |
+| **Gesamt:**  |                                            | **5,0 h**  |
+
+
+
 
 
 
