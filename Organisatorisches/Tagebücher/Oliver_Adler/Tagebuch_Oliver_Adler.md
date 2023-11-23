@@ -69,11 +69,11 @@
 | Datum       | Tätigkeit                                  | Dauer  |
 |-------------|---------------------------------------------|--------|
 | 21.11.2023  |          Neues Menü erstellt und Fonts hinzugefügt und disconnect ergänzt.                            | 5,0 h  |
-|  |        
+| 24.11.2023|    Versucht die Codestruktur zu refactorieren dafür einen neuen branch "refactor" erstellt, vorerst gescheitert.      | 2,0 |
 |   |                            |  |
 |   |                           |  |
 |   |                   |  |
-| **Gesamt:**  |                                            | **5,0 h**  |
+| **Gesamt:**  |                                            | **7,0 h**  |
 
 
 
