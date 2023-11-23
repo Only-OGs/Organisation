@@ -89,4 +89,6 @@
 | Datum       | Tätigkeit                                  | Dauer  |
 |-------------|---------------------------------------------|--------|
 |20.11.2023|Meeting(siehe Protokoll)| 1,0 h |
-| **Gesamt:**  |                                            | **1,0 h**  |
+|22.11.2023|Weiter an dem LobbyScreen gearbeitet| 4,0 h|
+|23.11.2023|Chat Funktion in den LobbyScreen implementiert| 6,0 h|
+| **Gesamt:**  |                                            | **11,0 h**  |
