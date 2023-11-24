@@ -57,8 +57,7 @@
 | Datum       | Tätigkeit                                  | Dauer  |
 |-------------|---------------------------------------------|--------|
 |17.11.2023| Expermimentiert mit Python Server und Java Client Kommunikation| 4,0 h |
-|18.11.2023| Meeting:| 1,0 h |
-| **Gesamt:**  |                                            | **5,0 h**  |
+| **Gesamt:**  |                                            | **4,0 h**  |
 
 
 **Woche:** *47*
