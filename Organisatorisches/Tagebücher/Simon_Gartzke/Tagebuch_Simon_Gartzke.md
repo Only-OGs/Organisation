@@ -64,5 +64,6 @@
 | 21.11.2023  | Background + Fog implementiert und mit Jan bug fixes gemacht    | 4,0 h  |
 | 22.11.2023  | Background + Fog implementiert und mit Jan bug fixes gemacht    | 1,0 h  |
 | 22.11.2023  | develop branch refactored und PR#16 aufgemacht   | 2,0 h  |
-| **Gesamt:**  |                                            | **9.0 h**  |
+| 24.11.2023  | Kurven und Hügel implementiert und PR aufgemacht   | 2,0 h  |
+| **Gesamt:**  |                                            | **11.0 h**  |
 
