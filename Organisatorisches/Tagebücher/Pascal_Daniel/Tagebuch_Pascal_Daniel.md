@@ -89,6 +89,8 @@
 | Datum       | Tätigkeit                                  | Dauer  |
 |-------------|---------------------------------------------|--------|
 |20.11.2023|Meeting(siehe Protokoll)| 1,0 h |
-|22.11.2023|Weiter an dem LobbyScreen gearbeitet| 4,0 h|
-|23.11.2023|Chat Funktion in den LobbyScreen implementiert| 6,0 h|
-| **Gesamt:**  |                                            | **11,0 h**  |
+|22.11.2023|Weiter an dem LobbyScreen gearbeitet| 4,0 h |
+|23.11.2023|Chat Funktion in den LobbyScreen implementiert| 6,0 h |
+|24.11.2023|LobbyScreen sowie LobbyMenü mit Lobby suchen und Schnelles Spiel weiter ausgebaut, sowie weitere Fehler behoben + Chat weiter verbessert| 6,0 h |
+|25.11.2023|Letzte Bugs bei "Lobby erstellen" behoben, sowie den Code Refactored und verbessert| 2,0 h |
+| **Gesamt:**  |                                            | **19,0 h**  |
