@@ -51,3 +51,19 @@
 |11.11.2023|Meeeting: kleinere Fragen geklärt| 0,5 h |
 |12.11.2023|Java Client: Input Handling hinzugefügt - grobe Struktur implementiert| 1,0 h |
 | **Gesamt:**  |                                            | **6,5 h**  |
+
+**Woche:** *46*
+
+| Datum       | Tätigkeit                                  | Dauer  |
+|-------------|---------------------------------------------|--------|
+|17.11.2023| Expermimentiert mit Python Server und Java Client Kommunikation| 4,0 h |
+| **Gesamt:**  |                                            | **4,0 h**  |
+
+
+**Woche:** *47*
+
+| Datum       | Tätigkeit                                  | Dauer  |
+|-------------|---------------------------------------------|--------|
+|20.11.2023| Meeting: Besprechung/Klären von Fragen bzgl. Multiplayer, Aktueller Stand besprochen| 1,0 h |
+|24.11.2023| Auto Steuerung implementiert (Beschleunigen/Bremsen/Links-Rechts lenken) + Zentrifugalkraft in Kurven| 3,0 h |
+| **Gesamt:**  |                                            | **4,0 h**  |
