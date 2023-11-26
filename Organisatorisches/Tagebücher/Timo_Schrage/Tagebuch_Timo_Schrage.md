@@ -66,4 +66,6 @@
 |-------------|---------------------------------------------|--------|
 |20.11.2023| Meeting: Besprechung/Klären von Fragen bzgl. Multiplayer, Aktueller Stand besprochen| 1,0 h |
 |24.11.2023| Auto Steuerung implementiert (Beschleunigen/Bremsen/Links-Rechts lenken) + Zentrifugalkraft in Kurven| 3,0 h |
-| **Gesamt:**  |                                            | **4,0 h**  |
+|26.11.2023| Meeting: Neuer Milestone gesetzt + Server Daten zur Kommunikation| 1,0 h |
+|26.11.2023| (Merge)Probleme fixen, zusammenführen von Features| 4,0 h |
+| **Gesamt:**  |                                            | **9,0 h**  |
