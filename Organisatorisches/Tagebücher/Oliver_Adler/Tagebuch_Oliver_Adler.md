@@ -70,10 +70,10 @@
 |-------------|---------------------------------------------|--------|
 | 21.11.2023  |          Neues Menü erstellt und Fonts hinzugefügt und disconnect ergänzt.                            | 5,0 h  |
 | 24.11.2023|    Versucht die Codestruktur zu refactorieren dafür einen neuen branch "refactor" erstellt, vorerst gescheitert.      | 2,0 |
-|   |                            |  |
-|   |                           |  |
+| 25.11.2023 |      Codestruktur begonnen umzustrukturieren                      | 3,0 |
+| 26.11.230 |      Client erweitert (WIP) und neue Buttons hinzugefügt, kleiner Bugfixes                     | 3,4 |
 |   |                   |  |
-| **Gesamt:**  |                                            | **7,0 h**  |
+| **Gesamt:**  |                                            | **12,4 h**  |
 
 
 
