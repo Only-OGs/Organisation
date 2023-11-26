@@ -69,3 +69,5 @@
 |26.11.2023| Meeting: Neuer Milestone gesetzt + Server Daten zur Kommunikation| 1,0 h |
 |26.11.2023| (Merge)Probleme fixen, zusammenführen von Features| 4,0 h |
 | **Gesamt:**  |                                            | **9,0 h**  |
+
+
