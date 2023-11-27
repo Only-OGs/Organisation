@@ -46,3 +46,25 @@
 |10.11.2023|Meeting - Besprechung der Nutzung des Kanban Boards | 1,0 h|
 |12.11.2023|Weitere Arbeiten am Server, inkl. erster Funktionstests mit dem Java Client | 3 h |
 | **Gesamt:**  |                                            | **8 h**  |
+
+**Woche:** *46*
+
+| Datum       | Tätigkeit                                  | Dauer  |
+|-------------|---------------------------------------------|--------|
+|13.11.2023| Server-Programmierung | 2,0 h |
+|15.11.2023| Server-Programmierung + Erstellung von ReadMe und Dokumentation | 4,0 h |
+|19.11.2023|Meeting - Den aktuellen Stand besprochen | 1,2 h |
+| **Gesamt:**  |         | **7,2 h**  |
+
+**Woche:** *47*
+
+| Datum       | Tätigkeit                                  | Dauer  |
+|-------------|---------------------------------------------|--------|
+|20.11.2023| Server-Programmierung, Refactoring und Dokumentation | 2,0 h |
+|21.11.2023| Server-Programmierung, Login/Logout + Lobby | 5,0 h |
+|22.11.2023| Server-Programmierung, Server-Crashs behoben | 2 h |
+|23.11.2023| Server-Programmierung, Logging und weitere Lobby Funktionen | 1,5 h |
+|24.11.2023| Server-Programmierung, Chat und weitere Bugs gefixxt | 6,0 h|
+|25.11.2023| Server-Programmierung, Refactoring durch Einführung von Klassen | 4,0 h|
+|26.11.2023| Server-Programmierung, Refactoring der Events | 4,5h
+| **Gesamt:**  |         | **26 h**  |
