@@ -94,7 +94,9 @@
 |24.11.2023|LobbyScreen sowie LobbyMenü mit Lobby suchen und Schnelles Spiel weiter ausgebaut, sowie weitere Fehler behoben + Chat weiter verbessert| 6,0 h |
 |25.11.2023|Letzte Bugs bei "Lobby erstellen" behoben, sowie den Code Refactored und verbessert| 4,0 h |
 |26.11.2023|Code Fehler behoben und neu strukturiert, sowie Code Refactoring betrieben. Zusätzlich noch neue Events erstellt und alles getestet  | 7,0 h |
-| **Gesamt:**  |                                            | **28,0 h**  |
+|26.11.2023|Meeting(siehe Protokoll) Aktuellen Stand besprochen| 1,0 h |
+|26.11.2023|Chat Funktion weiter verbessert| 1,0 h |
+| **Gesamt:**  |                                            | **30,0 h**  |
 
 <br>
 
@@ -102,5 +104,5 @@
 
 | Datum       | Tätigkeit                                  | Dauer  |
 |-------------|---------------------------------------------|--------|
-||||
-| **Gesamt:**  |                                            | **0,0 h**  |
+|27.11.2023|Chat etwas modifiziert und Textausgaben verbessert sowie damit Begonnen die Datenübertragung der Spielerautos zu implementieren| 2,0 h |
+| **Gesamt:**  |                                            | **2,0 h**  |
