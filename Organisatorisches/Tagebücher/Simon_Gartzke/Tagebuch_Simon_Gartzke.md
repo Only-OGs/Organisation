@@ -67,3 +67,10 @@
 | 24.11.2023  | Kurven und Hügel implementiert und PR aufgemacht   | 2,0 h  |
 | **Gesamt:**  |                                            | **11.0 h**  |
 
+**Woche:** *48*
+
+| Datum       | Tätigkeit                                  | Dauer  |
+|-------------|---------------------------------------------|--------|
+| 28.11.2023  | Auto implementation mit Jans hilfe  | 5,0 h  |
+| **Gesamt:**  |                                            | **5.0 h**  |
+
