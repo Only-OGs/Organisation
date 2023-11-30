@@ -70,4 +70,10 @@
 |26.11.2023| (Merge)Probleme fixen, zusammenführen von Features| 4,0 h |
 | **Gesamt:**  |                                            | **9,0 h**  |
 
+**Woche:** *48*
+
+| Datum       | Tätigkeit                                  | Dauer  |
+|-------------|---------------------------------------------|--------|
+|30.11.2023| Kollision mit Sprites am Straßenrand (noch nicht andere Autos) implementiert| 2,5 h |
+| **Gesamt:**  |                                            | **2,5 h**  |
 
