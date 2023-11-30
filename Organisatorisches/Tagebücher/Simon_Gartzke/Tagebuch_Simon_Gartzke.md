@@ -72,5 +72,7 @@
 | Datum       | Tätigkeit                                  | Dauer  |
 |-------------|---------------------------------------------|--------|
 | 28.11.2023  | Auto implementation mit Jans hilfe  | 5,0 h  |
-| **Gesamt:**  |                                            | **5.0 h**  |
+| 29.11.2023  | Objekte am Straßenrand implementiert + bug fixing | 3,0 h  |
+| 30.11.2023  | versucht Bugs zu beheben  | 2,0 h  |
+| **Gesamt:**  |                                            | **10.0 h**  |
 
