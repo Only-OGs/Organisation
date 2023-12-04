@@ -105,4 +105,16 @@
 | Datum       | Tätigkeit                                  | Dauer  |
 |-------------|---------------------------------------------|--------|
 |27.11.2023|Chat etwas modifiziert und Textausgaben verbessert sowie damit Begonnen die Datenübertragung der Spielerautos zu implementieren| 2,0 h |
+|28.11.2023|Code Refoctored udn Chat ausgelaggert| 2,0 h |
+|02.12.2023|Begonnen mit dem Lobby Timer| 3,0 h |
+|03.12.2023|Meeting(siehe Protokoll) weiteres Vorgehen besprochen| 1,0 h |
+| **Gesamt:**  |                                            | **8,0 h**  |
+
+<br>
+
+**Woche:** *49*
+
+| Datum       | Tätigkeit                                  | Dauer  |
+|-------------|---------------------------------------------|--------|
+|04.12.2023|Timer Lobby fertig gestellt und Code weiter optimiert| 2,0 h |
 | **Gesamt:**  |                                            | **2,0 h**  |
