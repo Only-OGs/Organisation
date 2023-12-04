@@ -76,3 +76,23 @@
 | **Gesamt:**  |                                            | **2 h**  |
 
 
+**Woche:** *48*
+
+| Datum       | Tätigkeit                                  | Dauer  |
+|-------------|---------------------------------------------|--------|
+|27.11.2023|Refoctored| 2,0 h |
+|01.12.2023|Refoctored| 1,0 h |
+|02.12.2023|Refoctored GUI angefangen| 3,0 h |
+|03.12.2023|Meeting(siehe Protokoll) weiteres Vorgehen besprochen und Refactored| 2,0 h |
+| **Gesamt:**  |                                            | **8,0 h**  |
+
+<br>
+
+**Woche:** *49*
+
+| Datum       | Tätigkeit                                  | Dauer  |
+|-------------|---------------------------------------------|--------|
+|04.12.2023|GUI Fertiggestellt| 2,0 h |
+| **Gesamt:**  |   
+
+
