@@ -74,5 +74,6 @@
 | 28.11.2023  | Auto implementation mit Jans hilfe  | 5,0 h  |
 | 29.11.2023  | Objekte am Straßenrand implementiert + bug fixing | 3,0 h  |
 | 30.11.2023  | versucht Bugs zu beheben  | 2,0 h  |
-| **Gesamt:**  |                                            | **10.0 h**  |
+| 3.12.2023  | Meeting + Objekt bug behoben  | 2,0 h  |
+| **Gesamt:**  |                                            | **12.0 h**  |
 
