@@ -77,3 +77,11 @@
 |30.11.2023| Kollision mit Sprites am Straßenrand (noch nicht andere Autos) implementiert| 2,5 h |
 | **Gesamt:**  |                                            | **2,5 h**  |
 
+**Woche:** *49*
+
+| Datum       | Tätigkeit                                  | Dauer  |
+|-------------|---------------------------------------------|--------|
+|05.12.2023| Meeting: Serverdaten zum anzeigen der anderen Autos| 1,0 h |
+|05.12.2023| Kollision mit anderen Autos| 3,0 h |
+| **Gesamt:**  |                                            | **4,0 h**  |
+
