@@ -89,7 +89,7 @@
 
 | Datum       | Tätigkeit                                  | Dauer  |
 |-------------|---------------------------------------------|--------|
-|   |      |  |
+|  05.12.2023 |   Neuen PR: Kommunikation zwischen Server und Pythonclient optimiert und ein Refactoring betrieben. Server liefert jetzt die Track und wir können diese rendern | 5,0 |
 |   |                   |  |
 | **Gesamt:**  |                                            | **0,0 h**  |
 
