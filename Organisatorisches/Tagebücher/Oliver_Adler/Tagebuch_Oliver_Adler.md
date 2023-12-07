@@ -92,7 +92,8 @@
 |  05.12.2023 |   Neuen PR: Kommunikation zwischen Server und Pythonclient optimiert und ein Refactoring betrieben. Server liefert jetzt die Track und wir können diese rendern | 5,0 |
 |  06.12.2023 |     Gesmten Code nochmal umstrukturiert und optimiert.              | 7,0 |
 |06.12.2023|Alles in develop gemerged, Neuen Screen hinzugefügt und einen Bug gefixed.Es stehen aber noch einige Kleinigkeiten an, das Anzeigen von Stati für den User und das Eventhandling für die Lobby| 6,5| 
-| **Gesamt:**  |                                            | **18,5 h**  |
+|07-08.12.2023| Funktionalität für die InGameLobby erstellt | 6,5| 
+| **Gesamt:**  |                                            | **25,0 h**  |
 
 
 
