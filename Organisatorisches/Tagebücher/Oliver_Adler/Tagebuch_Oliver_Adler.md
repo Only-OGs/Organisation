@@ -93,7 +93,8 @@
 |  06.12.2023 |     Gesmten Code nochmal umstrukturiert und optimiert.              | 7,0 |
 |06.12.2023|Alles in develop gemerged, Neuen Screen hinzugefügt und einen Bug gefixed.Es stehen aber noch einige Kleinigkeiten an, das Anzeigen von Stati für den User und das Eventhandling für die Lobby| 6,5| 
 |07-08.12.2023| Funktionalität für die InGameLobby erstellt | 6,5| 
-| **Gesamt:**  |                                            | **25,0 h**  |
+|09.12.2023| Events hinzugefügt | 1,0| 
+| **Gesamt:**  |                                            | **26,0 h**  |
 
 
 
