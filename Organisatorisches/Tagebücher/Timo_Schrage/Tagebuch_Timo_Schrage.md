@@ -83,5 +83,13 @@
 |-------------|---------------------------------------------|--------|
 |05.12.2023| Meeting: Serverdaten zum anzeigen der anderen Autos| 1,0 h |
 |05.12.2023| Kollision mit anderen Autos| 3,0 h |
+|10.12.2023| Meeting: Autodaten Übertragung besprochen | 0,5 h |
+| **Gesamt:**  |                                            | **4,5 h**  |
+
+**Woche:** *50*
+
+| Datum       | Tätigkeit                                  | Dauer  |
+|-------------|---------------------------------------------|--------|
+|12.12.2023| Pausemenu erstellt und für Multiplayer angepasst| 4,0 h |
 | **Gesamt:**  |                                            | **4,0 h**  |
 
