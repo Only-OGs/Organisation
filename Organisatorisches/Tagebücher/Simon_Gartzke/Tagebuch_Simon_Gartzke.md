@@ -77,3 +77,18 @@
 | 3.12.2023  | Meeting + Objekt bug behoben  | 2,0 h  |
 | **Gesamt:**  |                                            | **12.0 h**  |
 
+**Woche:** *49*
+
+| Datum       | Tätigkeit                                  | Dauer  |
+|-------------|---------------------------------------------|--------|
+| 9.12.2023  | Bug hunting und fixing  | 2,0 h  |
+| 10.12.2023  | Meeting   | 0,5 h  |
+| **Gesamt:**  |                                            | **2.5 h**  |
+
+**Woche:** *50*
+
+| Datum       | Tätigkeit                                  | Dauer  |
+|-------------|---------------------------------------------|--------|
+| 12.12.2023  | Basic Multiplayer implementiert + viele bugs gefixt | 8,0 h  |
+| **Gesamt:**  |                                            | **8.0 h**  |
+
