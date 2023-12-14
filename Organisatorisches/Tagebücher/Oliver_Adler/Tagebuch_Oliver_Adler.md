@@ -96,6 +96,14 @@
 |09.12.2023| Events hinzugefügt | 1,0| 
 | **Gesamt:**  |                                            | **26,0 h**  |
 
+**Woche:** *50*
+
+| Datum       | Tätigkeit                                  | Dauer  |
+|-------------|---------------------------------------------|--------|
+|  12.12.2023 |   neue Events für den Mulitplayer hinzugefügt und getestet   | 2,0 |
+|  14.12.2023 |   Bugfix    | 1,0 |
+| **Gesamt:**  |                                            | **3,0 h**  |
+
 
 
 
