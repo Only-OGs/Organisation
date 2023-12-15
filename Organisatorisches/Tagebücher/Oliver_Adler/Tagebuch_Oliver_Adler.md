@@ -102,7 +102,8 @@
 |-------------|---------------------------------------------|--------|
 |  12.12.2023 |   neue Events für den Mulitplayer hinzugefügt und getestet   | 2,0 |
 |  14.12.2023 |   Bugfix    | 1,0 |
-| **Gesamt:**  |                                            | **3,0 h**  |
+|  15.12.2023 |   Neue Möglichkeit mit Escape das Gameplay zu pausieren eingebaut und versucht das Game aus komplett zu verlassen   | 3,25 |
+| **Gesamt:**  |                                            | **6,25 h**  |
 
 
 
