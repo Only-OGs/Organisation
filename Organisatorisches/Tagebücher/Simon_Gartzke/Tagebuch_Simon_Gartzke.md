@@ -90,5 +90,6 @@
 | Datum       | Tätigkeit                                  | Dauer  |
 |-------------|---------------------------------------------|--------|
 | 12.12.2023  | Basic Multiplayer implementiert + viele bugs gefixt | 8,0 h  |
-| **Gesamt:**  |                                            | **8.0 h**  |
+| 17.12.2023  | Meeting | 0,5 h  |
+| **Gesamt:**  |                                            | **8.5 h**  |
 
