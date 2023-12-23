@@ -117,4 +117,26 @@
 | Datum       | Tätigkeit                                  | Dauer  |
 |-------------|---------------------------------------------|--------|
 |04.12.2023|Timer Lobby fertig gestellt und Code weiter optimiert| 2,0 h |
-| **Gesamt:**  |                                            | **2,0 h**  |
+|05.12.2023|Event für start Game überbearbeitet und LobbyScreen Code überarbeitet | 0,5 h |
+|08.12.2023|Timer überabeitet, so das er über den Server läuft| 2,0 h |
+| **Gesamt:**  |                                            | **4,5 h**  |
+
+<br>
+
+**Woche:** *50*
+
+| Datum       | Tätigkeit                                  | Dauer  |
+|-------------|---------------------------------------------|--------|
+|10.12.2023|Meeting(siehe Protokoll) Aktuellen Stand besproche + weiteres vorgehen| 0,5 h |
+|12.12.2023|Timer fertig gestellt, sowie neue Events erstellt und Datenübertragung der Spieler Cars implementiert + Anzeige der Autos von allen Clients + Bewegung| 7,0 h |
+|17.12.2023|Meeting(siehe Protokoll) Besproche was noch ansteht und wie der weiterer Verlauf aussieht| 0,5 h |
+| **Gesamt:**  |                                            | **8,0 h**  |
+
+<br>
+
+**Woche:** *51*
+
+| Datum       | Tätigkeit                                  | Dauer  |
+|-------------|---------------------------------------------|--------|
+||||
+| **Gesamt:**  |                                            | **0,0 h**  |
