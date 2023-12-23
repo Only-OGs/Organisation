@@ -67,7 +67,7 @@
 | 15.11.2023  |          Main Menu erstellt                 | 2 h  |
 | 16.11.2023  |          switch zu Pygame              	    | 4 h  |
 | 18.11.2023  |          Am Main Menu gearbeitet            | 3 h  |
-	| 18.11.2023  |       Wöchentliches Meeting          | 1 h  |
+| 18.11.2023  |       Wöchentliches Meeting          	| 1 h  |
 | **Gesamt:**  |                                            | **10h**  |
 
 ---
