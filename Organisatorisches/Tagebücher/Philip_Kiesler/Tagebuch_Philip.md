@@ -33,6 +33,8 @@
 |25.10.2023  |Präsentattion gekürtzt, Karteikarten vorbereitet, geübt, Quellen verlinkt| 2,0 h  |
 | **Gesamt:**  |                                            | **6,0 h**  |
 
+---
+
 **Woche:** *44*
 
 | Datum       | Tätigkeit                                  | Dauer  |
@@ -42,7 +44,7 @@
 |04.11.2023 |Recherche| 1,3 h  |
 | **Gesamt:**  |                                            | **2,8 h**  |
 
-
+---
 		
 
 **Woche:** *45*
@@ -55,6 +57,7 @@
 | **Gesamt:**  |                                            | **5 h**  |
 
 
+---
 
 
 **Woche:** *46*
@@ -64,8 +67,10 @@
 | 15.11.2023  |          Main Menu erstellt                 | 2 h  |
 | 16.11.2023  |          switch zu Pygame              	    | 4 h  |
 | 18.11.2023  |          Am Main Menu gearbeitet            | 3 h  |
-	| 18.11.2023  |       Wöchentliches Meeting          | 1 h  |
+| 18.11.2023  |       Wöchentliches Meeting          	| 1 h  |
 | **Gesamt:**  |                                            | **10h**  |
+
+---
 
 
 **Woche:** *47*
@@ -74,6 +79,8 @@
 |-------------|---------------------------------------------|--------|
 | 20.11.2023  |          Main Menu beendet                 | 2 h  |
 | **Gesamt:**  |                                            | **2 h**  |
+
+---
 
 
 **Woche:** *48*
@@ -86,13 +93,36 @@
 |03.12.2023|Meeting(siehe Protokoll) weiteres Vorgehen besprochen und Refactored| 2,0 h |
 | **Gesamt:**  |                                            | **8,0 h**  |
 
-<br>
+
+---
+
 
 **Woche:** *49*
 
 | Datum       | Tätigkeit                                  | Dauer  |
 |-------------|---------------------------------------------|--------|
 |04.12.2023|GUI Fertiggestellt| 2,0 h |
-| **Gesamt:**  |   
+| **Gesamt:**  |					| **2.0 h**  |   
+
+---
+
+**Woche:** *50*
+
+| Datum       | Tätigkeit                                  | Dauer  |
+|-------------|---------------------------------------------|--------|
+| 13.12.2023  | Loading screen erstellt | 2,0 h  |
+| 17.12.2023  | Meeting | 0,5 h  |
+| **Gesamt:**  |                                            | **2.5 h**  |
+
+---
+
+**Woche:** *51*
+
+| Datum       | Tätigkeit                                  | Dauer  |
+|-------------|---------------------------------------------|--------|
+| 18.12.2023  | Countdown implementiert | 3,0 h  |
+| **Gesamt:**  |                                            | **3.0 h**  |
+
+
 
 
