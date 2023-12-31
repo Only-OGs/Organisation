@@ -124,5 +124,14 @@
 | **Gesamt:**  |                                            | **3.0 h**  |
 
 
+**Woche:** *52*
+
+| Datum       | Tätigkeit                                  | Dauer  |
+|-------------|---------------------------------------------|--------|
+| 30.12.2023  | leaderboard und Timer | 5,0 h  |
+| 31.12.2023  | Countdown für server implementiert | 5,0 h  |
+| **Gesamt:**  |                                            | **10.0 h**  |
+
+---
 
 
