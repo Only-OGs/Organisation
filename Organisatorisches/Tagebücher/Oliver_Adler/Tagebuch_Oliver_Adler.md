@@ -106,6 +106,13 @@
 | **Gesamt:**  |                                            | **6,25 h**  |
 
 
+**Woche:** *52*
+
+| Datum       | Tätigkeit                                  | Dauer  |
+|-------------|---------------------------------------------|--------|
+|  31.12.2023 |   Bugfix und Pausetaste und Escapetaste optimiert, Mitstudierende in Ihrer Implementierung unterstüzt, Pullrequest abgeschlossen und Nue gemergt  | 4,0 |
+| **Gesamt:**  |                                            | **4,0 h**  |
+
 
 
 
