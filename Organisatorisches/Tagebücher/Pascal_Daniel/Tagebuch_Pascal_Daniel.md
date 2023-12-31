@@ -140,3 +140,13 @@
 |-------------|---------------------------------------------|--------|
 ||||
 | **Gesamt:**  |                                            | **0,0 h**  |
+
+<br>
+
+**Woche:** *52*
+
+| Datum       | Tätigkeit                                  | Dauer  |
+|-------------|---------------------------------------------|--------|
+|30.12.2023|Leaderboard, sowie Game Start Timer implementiert + weitere kleinere Änderungen| 5,0 h |
+|31.12.2023|Game Timer im Multiplayer und Singleplayer fertig gestellt, sowie kleinere Bugs eliminiert und Fehler behoben| 4,5 h |
+| **Gesamt:**  |                                            | **9,5 h**  |
