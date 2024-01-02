@@ -100,3 +100,11 @@
 |-------------|---------------------------------------------|--------|
 | 22.12.2023  | Collision implementiert | 0,5 h  |
 | **Gesamt:**  |                                            | **0.5 h**  |
+
+**Woche:** *52*
+
+| Datum       | Tätigkeit                                  | Dauer  |
+|-------------|---------------------------------------------|--------|
+| 29.12.2023  | Multiplayer implementiert | 6,5 h  |
+| 30.12.2023  | Multiplayer fixt und weiter implementiert | 5,0 h  |
+| **Gesamt:**  |                                            | **11.5 h**  |
