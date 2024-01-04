@@ -108,3 +108,11 @@
 | 29.12.2023  | Multiplayer implementiert | 6,5 h  |
 | 30.12.2023  | Multiplayer fixt und weiter implementiert | 5,0 h  |
 | **Gesamt:**  |                                            | **11.5 h**  |
+
+**Woche:** *1*
+
+| Datum       | Tätigkeit                                  | Dauer  |
+|-------------|---------------------------------------------|--------|
+| 2.1.2024  | Minimale fixes am Client | 1,0 h  |
+| 3.1.2024  | Leaderboard und Zeiten implementiert | 4,0 h  |
+| **Gesamt:**  |                                            | **5.0 h**  |
