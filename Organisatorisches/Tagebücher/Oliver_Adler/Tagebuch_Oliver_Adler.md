@@ -114,6 +114,17 @@
 | **Gesamt:**  |                                            | **4,0 h**  |
 
 
+**Woche:** *01*
+
+| Datum       | Tätigkeit                                  | Dauer  |
+|-------------|---------------------------------------------|--------|
+|  03.01.2024 |   Bugfixex bezüglich Escapetaste, Countdown korrigiert  | 7,0 |
+| 04.01.2024 | Am Chat gearbeitet und die einige Optimierung bezüglich des Countdowns eingebaut| 6,0 |
+| **Gesamt:**  |                                            | **13,0 h**  |
+
+
+
+
 
 
 
