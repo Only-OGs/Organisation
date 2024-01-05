@@ -123,14 +123,26 @@
 | 18.12.2023  | Countdown implementiert | 3,0 h  |
 | **Gesamt:**  |                                            | **3.0 h**  |
 
+---
 
 **Woche:** *52*
 
 | Datum       | Tätigkeit                                  | Dauer  |
 |-------------|---------------------------------------------|--------|
-| 30.12.2023  | leaderboard und Timer | 5,0 h  |
-| 31.12.2023  | Countdown für server implementiert | 5,0 h  |
+| 30.12.2023  | leaderboard angefangen und Timer | 5,0 h  |
+| 31.12.2023  | Countdown für server angefanngen | 5,0 h  |
 | **Gesamt:**  |                                            | **10.0 h**  |
+
+---
+
+**Woche:** *1*
+
+| Datum       | Tätigkeit                                  | Dauer  |
+|-------------|---------------------------------------------|--------|
+| 2.1.2024  | leaderboard implementriert | 3,0 h  |
+| 3.1.2024  | countdownn im Server implementriert | 3,0 h  |
+| 4.1.2024  | Chat in Python implementiert | 2,0 h  |
+| **Gesamt:**  |                                            | **8.0 h**  |
 
 ---
 
