@@ -7,7 +7,6 @@
 |-------------|---------------------------------------------|--------|
 | 13.10.2023  | Protokoliert, Meeting, Literatur überflogen, Arbeitsaufteilung               | 2,0 h  |
 | 13.10.2023  | Protokoliert, Aufgaben umverteilung                                          | 0,5 h  |
-
 | **Gesamt:**  |                                            | **2,5 h**  |
 
 ---
@@ -19,7 +18,6 @@
 | 17.10.2023  | Kapitel gelesen, Dokumnetiert, Zusammengefast und Präsentation angefangen    | 4,5 h  |
 | 18.10.2023  | Kapitel gelesen, Dokumnetiert, Zusammengefast und Präsentation bearbeitet    | 5,5 h  |
 | 20.10.2023  | Teambesprechung, Vortrag geplant            | 1,2 h  |
-| 01.10.2023  |                                             | 0,0 h  |
 | **Gesamt:**  |                                            | **11,2 h**  |
 
 ---
@@ -142,7 +140,8 @@
 | 2.1.2024  | leaderboard implementriert | 3,0 h  |
 | 3.1.2024  | countdownn im Server implementriert | 3,0 h  |
 | 4.1.2024  | Chat in Python implementiert | 2,0 h  |
-| **Gesamt:**  |                                            | **8.0 h**  |
+| 4.1.2024  | Code kommentiert | 0,5 h  |
+| **Gesamt:**  |                                            | **8.5 h**  |
 
 ---
 
