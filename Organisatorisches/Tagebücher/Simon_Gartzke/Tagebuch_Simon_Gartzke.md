@@ -115,4 +115,13 @@
 |-------------|---------------------------------------------|--------|
 | 2.1.2024  | Minimale fixes am Client | 1,0 h  |
 | 3.1.2024  | Leaderboard und Zeiten implementiert | 4,0 h  |
-| **Gesamt:**  |                                            | **5.0 h**  |
+| 5.1.2024  | Meeting + Background Scrolling implementiert + Testing  | 3,0 h  |
+| 7.1.2024  | Background Scrolling | 4,0 h  |
+| **Gesamt:**  |                                            | **12.0 h**  |
+
+**Woche:** *2*
+
+| Datum       | Tätigkeit                                  | Dauer  |
+|-------------|---------------------------------------------|--------|
+| 8.1.2024  | Background Scrolling mit Jan | 3,0 h |
+| **Gesamt:**  |                                            | **3.0 h**  |
