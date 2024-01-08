@@ -141,7 +141,17 @@
 | 3.1.2024  | countdownn im Server implementriert | 3,0 h  |
 | 4.1.2024  | Chat in Python implementiert | 2,0 h  |
 | 4.1.2024  | Code kommentiert | 0,5 h  |
-| **Gesamt:**  |                                            | **8.5 h**  |
+| 7.1.2024  | meeting | 0,5 h  |
+| **Gesamt:**  |                                            | **9.0 h**  |
+
+---
+
+**Woche:** *2*
+
+| Datum       | Tätigkeit                                  | Dauer  |
+|-------------|---------------------------------------------|--------|
+| 8.1.2024  | bugfix und sound refactort | 2,0 h  |
+| **Gesamt:**  |                                            | **2.0 h**  |
 
 ---
 
