@@ -119,8 +119,18 @@
 | Datum       | Tätigkeit                                  | Dauer  |
 |-------------|---------------------------------------------|--------|
 |  03.01.2024 |   Bugfixex bezüglich Escapetaste, Countdown korrigiert  | 7,0 |
-| 04.01.2024 | Am Chat gearbeitet und die einige Optimierung bezüglich des Countdowns eingebaut| 6,0 |
+| 04.01.2024 | Am Chat gearbeitet und die einige Optimierungen bezüglich des Countdowns eingebaut| 6,0 |
 | **Gesamt:**  |                                            | **13,0 h**  |
+
+
+**Woche:** *02*
+
+| Datum       | Tätigkeit                                  | Dauer  |
+|-------------|---------------------------------------------|--------|
+|08.01.2024 | Bugfixing bezüglich des Leaderboards| **3,0h**
+|09.01.2024 | readMe hinzugefügt, Refactoring der Globalen variablen und kommentieren des Codes | **4,0h**
+| **Gesamt:**  |                                            | **7,0 h**  |
+
 
 
 
