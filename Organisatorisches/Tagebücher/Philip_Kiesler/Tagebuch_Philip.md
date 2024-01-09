@@ -151,7 +151,8 @@
 | Datum       | Tätigkeit                                  | Dauer  |
 |-------------|---------------------------------------------|--------|
 | 8.1.2024  | bugfix und sound refactort | 2,0 h  |
-| **Gesamt:**  |                                            | **2.0 h**  |
+| 9.1.2024  | bugfix und sound refactort | 8,0 h  |
+| **Gesamt:**  |                                            | **10.0 h**  |
 
 ---
 
