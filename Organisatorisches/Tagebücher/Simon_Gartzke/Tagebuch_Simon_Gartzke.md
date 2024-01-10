@@ -124,4 +124,5 @@
 | Datum       | Tätigkeit                                  | Dauer  |
 |-------------|---------------------------------------------|--------|
 | 8.1.2024  | Background Scrolling mit Jan | 3,0 h |
-| **Gesamt:**  |                                            | **3.0 h**  |
+| 9.1.2024  | Bug fixing + Dokumentation + mini Refaktoring | 10,0 h |
+| **Gesamt:**  |                                            | **13.0 h**  |
