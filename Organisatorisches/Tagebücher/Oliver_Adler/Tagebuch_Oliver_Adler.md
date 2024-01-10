@@ -128,8 +128,8 @@
 | Datum       | Tätigkeit                                  | Dauer  |
 |-------------|---------------------------------------------|--------|
 |08.01.2024 | Bugfixing bezüglich des Leaderboards| **3,0h**
-|09.01.2024 | readMe hinzugefügt, Refactoring der Globalen variablen und kommentieren des Codes | **4,0h**
-| **Gesamt:**  |                                            | **7,0 h**  |
+|09.01.2024 | readMe hinzugefügt, Refactoring der Globalen variablen und kommentieren des Codes | **7,0h**
+| **Gesamt:**  |                                            | **10,0 h**  |
 
 
 
