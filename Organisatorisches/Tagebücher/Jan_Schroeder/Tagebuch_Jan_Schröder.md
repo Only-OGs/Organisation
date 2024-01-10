@@ -115,13 +115,13 @@
 | 03.01.2023  | Multiplayer Sprites am Straßenrand|  2,0 h  |
 | 03.01.2023  | provisorischer Hintergrund und start/Ziel Linie|  1,0 h  |
 | 04.01.2023  | Hintergrund mit Parallaxe|  2,0 h  |
-| **Gesamt:**  |                          | **6,0 h**  |
+| 07.01.2023  | Meeting|  1,0 h  |
+| **Gesamt:**  |                          | **7,0 h**  |
 
 **Woche:** *02*
 | Datum       | Tätigkeit                                  | Dauer  |
 |-------------|---------------------------------------------|--------|
-| 08.01.2023  | Meeting|  1,0 h  |
-| 09.01.2023  | KI verbessert und fehler gefixt|  2,0 h  |
+| 09.01.2023  | KI verbessert und fehler gefixt|  3,0 h  |
 | 10.01.2023  | Präsentations Planung/übung|  3,0 h  |
 | **Gesamt:**  |                          | **6,0 h**  |
 
