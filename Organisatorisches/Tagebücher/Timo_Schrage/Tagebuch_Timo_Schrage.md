@@ -91,5 +91,36 @@
 | Datum       | Tätigkeit                                  | Dauer  |
 |-------------|---------------------------------------------|--------|
 |12.12.2023| Pausemenu erstellt und für Multiplayer angepasst| 4,0 h |
-| **Gesamt:**  |                                            | **4,0 h**  |
+|17.12.2023| Meeting: Server Logik/Aufgaben besprochen | 0,5 h |
+| **Gesamt:**  |                                            | **4,5 h**  |
+
+**Woche:** *51*
+
+| Datum       | Tätigkeit                                  | Dauer  |
+|-------------|---------------------------------------------|--------|
+| **Gesamt:**  |                                            | **0,0 h**  |
+
+**Woche:** *52*
+
+| Datum       | Tätigkeit                                  | Dauer  |
+|-------------|---------------------------------------------|--------|
+|31.12.2023| Andere Teammitglieder bei ihren Implementierungen unterstützt| 0,5 h |
+| **Gesamt:**  |                                            | **0,5 h**  |
+
+**Woche:** *1*
+
+| Datum       | Tätigkeit                                  | Dauer  |
+|-------------|---------------------------------------------|--------|
+|02.01.2024| Implementierung des Pausemenüs verändert + Bug fixes| 3,0 h |
+|04.01.2024| Implementierung der Kollisionserkennung angepasst | 1,5 h |
+|05.01.2024| Bugs mit Kollision gefixt | 0,5 h |
+|07.01.2024| Meeting: Aktuellen Stand besprochen und weiteres Vorgehen besprochen| 0,6 h |
+| **Gesamt:**  |                                            | **4,5 h**  |
+
+**Woche:** *2*
+
+| Datum       | Tätigkeit                                  | Dauer  |
+|-------------|---------------------------------------------|--------|
+|10.01.2024| Code Refactored: Hud aus GameScreen in eigene Klasse ausgelagert und GameScreen aufgeräumt + Abgabe vorbereitet| 3,0 h |
+| **Gesamt:**  |                                            | **3,0 h**  |
 
