@@ -121,6 +121,6 @@
 
 | Datum       | Tätigkeit                                  | Dauer  |
 |-------------|---------------------------------------------|--------|
-|10.01.2024| Code Refactored: Hud aus GameScreen in eigene Klasse ausgelagert und GameScreen aufgeräumt + Abgabe vorbereitet| 3,0 h |
-| **Gesamt:**  |                                            | **3,0 h**  |
+|10.01.2024| Code Refactored: Hud aus GameScreen in eigene Klasse ausgelagert und GameScreen aufgeräumt + Abgabe vorbereitet/Präsentation geübt| 6,0 h |
+| **Gesamt:**  |                                            | **6,0 h**  |
 
