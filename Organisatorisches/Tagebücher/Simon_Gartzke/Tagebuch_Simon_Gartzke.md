@@ -125,5 +125,5 @@
 |-------------|---------------------------------------------|--------|
 | 8.1.2024  | Background Scrolling mit Jan | 3,0 h |
 | 9.1.2024  | Bug fixing + Dokumentation + mini Refaktoring | 10,0 h |
-| 10.1.2024  | Abgabe vorbereitet | 2,0 h |
-| **Gesamt:**  |                                            | **15.0 h**  |
+| 10.1.2024  | Abgabe vorbereitet | 4,0 h |
+| **Gesamt:**  |                                            | **17.0 h**  |
