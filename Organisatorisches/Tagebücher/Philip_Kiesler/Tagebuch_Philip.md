@@ -152,6 +152,7 @@
 |-------------|---------------------------------------------|--------|
 | 8.1.2024  | bugfix und sound refactort | 2,0 h  |
 | 9.1.2024  | bugfix und sound refactort | 8,0 h  |
+| 10.1.2024  | abgabe vorbereitet | 2,0 h  |
 | **Gesamt:**  |                                            | **10.0 h**  |
 
 ---
