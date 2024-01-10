@@ -66,5 +66,70 @@
 |23.11.2023| Server-Programmierung, Logging und weitere Lobby Funktionen | 1,5 h |
 |24.11.2023| Server-Programmierung, Chat und weitere Bugs gefixxt | 6,0 h|
 |25.11.2023| Server-Programmierung, Refactoring durch Einführung von Klassen | 4,0 h|
-|26.11.2023| Server-Programmierung, Refactoring der Events | 4,5h
+|26.11.2023| Server-Programmierung, Refactoring der Events, Meeting | 5,5h
 | **Gesamt:**  |         | **26 h**  |
+
+**Woche:** *48*
+
+| Datum       | Tätigkeit                                  | Dauer  |
+|-------------|---------------------------------------------|--------|
+|27.11.2023| Server-Programmierung: Events splitten | 1,0 h |
+|28.11.2023| Server-Programmierung: Bug in den Events fixxen | 1,0 h |
+|3.12.2023| Meeting mit dem Team | 1,0 h
+| **Gesamt:**  |         | **3 h**  |
+
+**Woche:** *49*
+
+| Datum       | Tätigkeit                                  | Dauer  |
+|-------------|---------------------------------------------|--------|
+|4.12.2023| Server-Programmierung: Erste Start Game implementierung | 5,0 h |
+|5.12.2023| Server-Programmierung: Bug in den Events fixxen | 1,0 h |
+|6.12.2023| Server-Programmierung: Dokumentation, neue Events, Timer Logik und Threading | 8 h |
+|7.12.2023| Server-Programmierung: Bug Fixing | 3 h |
+|9.12.2023| Server-Programmierung: Bug Fix für Bug im Threading| 8 h|
+|10.12.2023| Meeting mit dem Team | 0,5h
+| **Gesamt:**  |         | **25,5 h**  |
+
+**Woche:** *50*
+
+| Datum       | Tätigkeit                                  | Dauer  |
+|-------------|---------------------------------------------|--------|
+|12.12.2023| Server-Programmierung: Implementierung des Positionsdatenaustauschs im Multiplayer | 7,0 h |
+|13.12.2023| Server-Programmierung: Implementierung SQLite  | 5 h |
+|17.12.2023| Meeting mit dem Team | 0,5h
+| **Gesamt:**  |         | **12,5 h**  |
+
+**Woche:** *51*
+
+| Datum       | Tätigkeit                                  | Dauer  |
+|-------------|---------------------------------------------|--------|
+| **Gesamt:**  |         | **0 h**  |
+
+**Woche:** *52*
+
+| Datum       | Tätigkeit                                  | Dauer  |
+|-------------|---------------------------------------------|--------|
+|28.12.2023| Server-Programmierung: AI Optimierung | 3,5 h |
+|29.12.2023| Server-Programmierung: Laptimer & Lapcounter für die Spieler, sowie weitere Arbeiten an AI & Threading Problemen | 8 h|
+| **Gesamt:**  |         | **11,5 h**  |
+
+**Woche:** *1*
+
+| Datum       | Tätigkeit                                  | Dauer  |
+|-------------|---------------------------------------------|--------|
+|3.1.2024| Server-Programmierung: Immernoch Threading, sowie Informationsaustausch mit den Clients während des Rennens, Leaderboard | 8 h |
+|4.1.2024| Server-Programmierung: Feinoptimierung der AI, Streckenerstellung, Unterschiedliche Assets für die AI Cars, Streckenassets | 8 h |
+| **Gesamt:**  |         | **16 h**  |
+
+**Woche:** *2*
+
+| Datum       | Tätigkeit                                  | Dauer  |
+|-------------|---------------------------------------------|--------|
+|8.1.2024| | 0,0 h |
+|9.1.2024| Server-Programmierung: Doku, ReadMe, Parameter Anpassung  | 2,5 h |
+|10.1.2024| Meeting | 2 h |
+|11.1.2024| | 0 h |
+|12.1.2024| | 0 h|
+|13.1.2024| | 0 h|
+|14.1.2024| | 0h
+| **Gesamt:**  |         | **4,5 h**  |
