@@ -150,3 +150,34 @@
 |30.12.2023|Leaderboard, sowie Game Start Timer implementiert + weitere kleinere Änderungen| 5,0 h |
 |31.12.2023|Game Timer im Multiplayer und Singleplayer fertig gestellt, sowie kleinere Bugs eliminiert und Fehler behoben| 4,5 h |
 | **Gesamt:**  |                                            | **9,5 h**  |
+
+<br>
+
+**Woche:** *1*
+
+| Datum       | Tätigkeit                                  | Dauer  |
+|-------------|---------------------------------------------|--------|
+|02.01.2024|Multiplayer Fehler behoben und das Hud etwas geändert| 1,0 h |
+|03.01.2024|Leaderboard Event erstellt zum Laden der Daten und mit dem leaderboard verknüpft| 2,0 h |
+|03.01.2024|Leaderboard getestet und Fehler behoben| 1,0 h |
+|04.01.2024|HUD umgebaut für den Multiplayer, sodass das die Daten vom Server genommen werden| 2,5 h |
+|04.01.2024|Das HUD um die Rundenanzahl erweitert für Mehrspieler und Einzelspieler, zusätzlich KEYS von eine JSONARRAY verwendet um beim erreichen der Ziellinie die Inputs des Spielers zu blockieren| 1,5 h |
+|04.01.2024|Das Spiel erweitert das die Sprites für die Autos vom Server geschickt werden| 1,0 h |
+|04.01.2024|Das Setting Menü fertig gestellt und Ordner Struktur geändert| 1,0 h |
+|05.01.2024|Print Statmenets aus dem Spiel Quellcode entfernt,Car Sprites Fehler behoben und Code der Menü Klasse überarbeitet| 2,5 h |
+|07.01.2024|Meeting(siehe Protokoll) Entwicklungsstände besprochen und Vorbereitung der Präsentation besprochen| 0,7 h |
+|07.01.2024| In der Klasse MessageChat eine kleine Änderung durchgeführt, sowie weitere Print Statement entfernt| 0,5 h |
+| **Gesamt:**  |                                            | **13,7 h**  |
+
+<br>
+
+**Woche:** *2*
+
+| Datum       | Tätigkeit                                  | Dauer  |
+|-------------|---------------------------------------------|--------|
+|08.01.2024|Quellcode kommentiert, etwas aufgeräumt im Code, sowie die Ordner Struktur etwas angepasst| 2,0 h |
+|09.01.2024|Kleinere Fehler nach dem Mergen behoben und Game getestet| 3,5 h |
+|09.01.2024|Im GameScreen sowie LobbyScreen den Code nochmal überarbeitet| 1,0 h 
+|10.01.2024|Zusammen im Team den Ablauf einmal durchgespielt für die Präsentation und das Game mit dem Python Client zusammen getestet| 4,0 h |
+|10.01.2024|Die Readme.md erweitert um die Anleitung zum starten des Racer Games für den Java Client| 2,0 h |
+| **Gesamt:**  |                                            | **12,5 h**  |
